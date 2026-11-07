@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>أخبار الذكاء الاصطناعي</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--text:#1f1e1b;--muted:#6b6a65;--line:#e3e1da;--accent:#185FA5;--accent-bg:#E6F1FB}
+@media (prefers-color-scheme:dark){:root{--bg:#1b1b19;--card:#262624;--text:#eceae4;--muted:#a3a198;--line:#3a3a36;--accent:#85B7EB;--accent-bg:#0C447C}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Tahoma,sans-serif;line-height:1.7}
+.wrap{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:20px;font-weight:500;margin:0 0 12px}
+input,select{width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text);font:inherit;margin-bottom:10px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;padding:4px 10px;font:inherit;font-size:13px;cursor:pointer}
+.chip.on{background:var(--accent-bg);color:var(--accent);border-color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:10px}
+.card h2{font-size:16px;font-weight:500;margin:0 0 6px;line-height:1.5}
+.card p{margin:0 0 6px;font-size:14px;color:var(--muted)}
+.en{direction:ltr;text-align:left;font-size:12px!important;opacity:.8}
+.meta{display:flex;justify-content:space-between;align-items:center;font-size:12px}
+.badge{background:var(--accent-bg);color:var(--accent);padding:2px 8px;border-radius:8px}
+a{color:var(--accent);text-decoration:none}
+.empty{text-align:center;color:var(--muted);padding:30px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>أخبار الذكاء الاصطناعي</h1>
+  <select id="day"></select>
+  <input id="q" type="search" placeholder="ابحث بالأخبار">
+  <div class="chips" id="chips"></div>
+  <div id="list"></div>
+</div>
+<script>
+let all = [], src = "all";
+const $ = id => document.getElementById(id);
+const dayOf = d => new Date(d).toLocaleDateString("en-CA");
+
+function timeOf(d){
+  return new Date(d).toLocaleTimeString("ar-IQ",{hour:"2-digit",minute:"2-digit"});
+}
+function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+
+function render(){
+  const day = $("day").value, q = $("q").value.trim().toLowerCase();
+  const ofDay = all.filter(i => dayOf(i.date) === day);
+
+  const counts = {};
+  ofDay.forEach(i => counts[i.source] = (counts[i.source]||0) + 1);
+  const names = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  $("chips").innerHTML =
+    `<button class="chip ${src==="all"?"on":""}" data-s="all">الكل ${ofDay.length}</button>` +
+    names.map(n=>`<button class="chip ${src===n?"on":""}" data-s="${esc(n)}">${esc(n)} ${counts[n]}</button>`).join("");
+  document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{src=b.dataset.s;render()});
+
+  const shown = ofDay.filter(i =>
+    (src==="all" || i.source===src) &&
+    (!q || (i.title+i.summary+i.title_ar+i.summary_ar).toLowerCase().includes(q)));
+
+  $("list").innerHTML = shown.length ? shown.map(i=>`
+    <div class="card">
+      <h2>${esc(i.title_ar || i.title)}</h2>
+      <p>${esc(i.summary_ar || i.summary)}</p>
+      <p class="en">${esc(i.title)}</p>
+      <div class="meta">
+        <span class="badge">${esc(i.source)} · ${timeOf(i.date)}</span>
+        <a href="${esc(i.link)}" target="_blank" rel="noopener">اقرأ الخبر ↗</a>
+      </div>
+    </div>`).join("") : `<div class="empty">ماكو أخبار</div>`;
+}
+
+fetch("news.json?v="+Date.now()).then(r=>r.json()).then(data=>{
+  all = data;
+  const days = [...new Set(all.map(i=>dayOf(i.date)))];
+  $("day").innerHTML = days.map(d=>`<option value="${d}">${d}</option>`).join("");
+  $("day").onchange = ()=>{src="all";render()};
+  $("q").oninput = render;
+  render();
+}).catch(()=>{$("list").innerHTML='<div class="empty">الأخبار ما نزلت بعد. شغّل الأتمتة مرة وحدة.</div>'});
+</script>
+</body>
+</html>
