@@ -1,5 +1,55 @@
 [
  {
+  "id": "d36485a6e1dbd817cadd8ab26757bbd7",
+  "source": "The Verge",
+  "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "date": "2026-11-07T12:30:00+00:00"
+ },
+ {
+  "id": "6631e4dfa978bfcdba5f64bb20c66621",
+  "source": "Guardian",
+  "title": "Steve Jones on dangerous tech innovations – cartoon",
+  "summary": "Continue reading...",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
+  "date": "2026-11-07T11:00:09+00:00"
+ },
+ {
+  "id": "6b3fd78bc0ad290d588313f7d8fb9528",
+  "source": "Wired",
+  "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+  "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+  "date": "2026-11-07T11:00:00+00:00"
+ },
+ {
+  "id": "40217ae882905f97e316a6e722ce2f17",
+  "source": "Guardian",
+  "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+  "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid. DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshire project would draw 1GW – the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+  "date": "2026-11-07T10:00:08+00:00"
+ },
+ {
+  "id": "492011e25c0d1f84fb761f473b33fefa",
+  "source": "Guardian",
+  "title": "The datacentre arms race hits pause in south-east Asia",
+  "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a planned investment of $27bn. As the year…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+  "date": "2026-11-07T10:00:07+00:00"
+ },
+ {
   "id": "98db80ff548d73ab1803ac2e3bd875b6",
   "source": "Guardian",
   "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
