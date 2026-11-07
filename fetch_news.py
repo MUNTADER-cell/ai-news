@@ -1,10 +1,25 @@
-import json, re, html, hashlib, os, time
+import json, re, html, hashlib, os, time, socket
 from datetime import datetime, timezone
 
+import requests
 import feedparser
 from deep_translator import GoogleTranslator
 
-# filter=True يعني الموقع عام، فنأخذ منه أخبار الذكاء الاصطناعي بس
+socket.setdefaulttimeout(20)
+_orig_request = requests.Session.request
+
+
+def _request_with_timeout(self, *a, **kw):
+    kw.setdefault("timeout", 15)
+    return _orig_request(self, *a, **kw)
+
+
+requests.Session.request = _request_with_timeout
+
+MAX_PER_FEED = 30
+MAX_TRANSLATE_PER_RUN = 300
+DATA_FILE = "news.json"
+
 FEEDS = [
     {"name": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "filter": True},
     {"name": "BBC", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "filter": True},
@@ -25,8 +40,9 @@ KEYWORDS = re.compile(
     re.IGNORECASE,
 )
 
-DATA_FILE = "news.json"
 translator = GoogleTranslator(source="en", target="ar")
+done = 0
+fails_in_row = 0
 
 
 def clean(text, limit=400):
@@ -36,14 +52,22 @@ def clean(text, limit=400):
 
 
 def translate(text):
-    if not text:
+    global done, fails_in_row
+    if not text or done >= MAX_TRANSLATE_PER_RUN or fails_in_row >= 5:
         return ""
-    try:
-        time.sleep(0.3)
-        return translator.translate(text[:4500])
-    except Exception as e:
-        print("translate failed:", e)
-        return ""
+    for _ in range(2):
+        try:
+            time.sleep(0.3)
+            out = translator.translate(text[:4500])
+            if out:
+                done += 1
+                fails_in_row = 0
+                return out
+        except Exception as e:
+            print("translate failed:", repr(e)[:200])
+            time.sleep(2)
+    fails_in_row += 1
+    return ""
 
 
 def load():
@@ -60,14 +84,13 @@ def main():
 
     for feed in FEEDS:
         try:
-            parsed = feedparser.parse(feed["url"])
-            entries = parsed.entries
+            entries = feedparser.parse(feed["url"]).entries
         except Exception as e:
             print("feed failed:", feed["name"], e)
             continue
 
         print(feed["name"], len(entries), "entries")
-        for e in entries:
+        for e in entries[:MAX_PER_FEED]:
             link = e.get("link", "")
             if not link:
                 continue
@@ -90,8 +113,8 @@ def main():
                 "source": feed["name"],
                 "title": title,
                 "summary": summary,
-                "title_ar": translate(title),
-                "summary_ar": translate(summary),
+                "title_ar": "",
+                "summary_ar": "",
                 "link": link,
                 "date": dt.isoformat(),
             })
@@ -100,9 +123,18 @@ def main():
 
     items.sort(key=lambda x: x["date"], reverse=True)
     items = items[:5000]
+
+    for i in items:
+        if i.get("title") and not i.get("title_ar"):
+            i["title_ar"] = translate(i["title"])
+        if i.get("summary") and not i.get("summary_ar"):
+            i["summary_ar"] = translate(i["summary"])
+
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=1)
-    print("added", new_count, "new items, total", len(items))
+
+    missing = sum(1 for i in items if not i.get("title_ar"))
+    print("added", new_count, "| translated", done, "| still untranslated", missing, "| total", len(items))
 
 
 if __name__ == "__main__":
