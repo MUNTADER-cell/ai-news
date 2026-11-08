@@ -1,5 +1,55 @@
 [
  {
+  "id": "788d74819780be6e03cae8fc284f01a8",
+  "source": "Guardian",
+  "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+  "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI ‘AI clog’: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash – Silicon Valley’s political power is cracking Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+  "date": "2026-11-08T12:05:58+00:00"
+ },
+ {
+  "id": "a2c5f531d1a7b20940f8c48f5fb7cd23",
+  "source": "Guardian",
+  "title": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+  "summary": "Continue reading...",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+  "date": "2026-11-08T12:00:40+00:00"
+ },
+ {
+  "id": "465225fe5f7565453ae72cef68a9fcb4",
+  "source": "Guardian",
+  "title": "The efficiency trap: why optimising everything can backfire, badly",
+  "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+  "date": "2026-11-08T12:00:39+00:00"
+ },
+ {
+  "id": "f859ffd0f0cd0253d15807969fa0c85b",
+  "source": "Wired",
+  "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+  "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+  "date": "2026-11-08T12:00:00+00:00"
+ },
+ {
+  "id": "695378b9928a642cc0ea93c9ef0d9b08",
+  "source": "Wired",
+  "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+  "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+  "date": "2026-11-08T10:00:00+00:00"
+ },
+ {
   "id": "1b373421bdc83bb33a6e4c130ba973aa",
   "source": "Guardian",
   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
