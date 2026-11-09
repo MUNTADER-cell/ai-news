@@ -1,5 +1,65 @@
 [
  {
+  "id": "f6521794ca444172b4c3f959bffc35f5",
+  "source": "Guardian",
+  "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+  "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+  "date": "2026-11-09T00:25:28+00:00"
+ },
+ {
+  "id": "a6c5d0754483fca7cddf9a45ae1d620d",
+  "source": "The Verge",
+  "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+  "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+  "date": "2026-11-08T22:54:50+00:00"
+ },
+ {
+  "id": "d417e4f21505a48adb494e78f5a2317b",
+  "source": "TechCrunch",
+  "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+  "summary": "In a memo to the company, Huang admitted that he had an affair.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+  "date": "2026-11-08T21:00:11+00:00"
+ },
+ {
+  "id": "24c4747f4e2de2a6493f23045cbb8fd7",
+  "source": "The Verge",
+  "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+  "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+  "date": "2026-11-08T20:22:39+00:00"
+ },
+ {
+  "id": "3fa60b95a7a47cb32794481f23529de7",
+  "source": "The Verge",
+  "title": "Apple is racing to make Siri more agentic",
+  "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "date": "2026-11-08T19:18:19+00:00"
+ },
+ {
+  "id": "801f2a048a781a2d772e7eef1a82386d",
+  "source": "The Verge",
+  "title": "Elvis and Eminem rights holders are suing Suno",
+  "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+  "date": "2026-11-08T17:23:19+00:00"
+ },
+ {
   "id": "ef744c6550fa95d8407cde180b3cee8f",
   "source": "Guardian",
   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
