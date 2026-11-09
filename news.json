@@ -1,5 +1,115 @@
 [
  {
+  "id": "b5d8c7c799aedaa60634e9bb22e77f61",
+  "source": "Guardian",
+  "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+  "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. “I have not ​spoken to…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+  "date": "2026-11-09T16:42:35+00:00"
+ },
+ {
+  "id": "9ed094811c690553f61707f8b2d8a8ec",
+  "source": "TechCrunch",
+  "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+  "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+  "date": "2026-11-09T16:12:28+00:00"
+ },
+ {
+  "id": "7bf546edea528c20bff7820bad697f2e",
+  "source": "The Verge",
+  "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+  "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+  "date": "2026-11-09T15:50:38+00:00"
+ },
+ {
+  "id": "f9c4955a3661c1024904e0823d19df23",
+  "source": "The Verge",
+  "title": "Disney and Adobe are building generative AI tools together",
+  "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "date": "2026-11-09T15:38:56+00:00"
+ },
+ {
+  "id": "9e6880b790bd1fb10f76d2d23cf3191c",
+  "source": "The Verge",
+  "title": "Hold up — I had a great time talking to the RIAA guy",
+  "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+  "date": "2026-11-09T15:30:00+00:00"
+ },
+ {
+  "id": "4ab0715edb8f352abb571456b1f3d923",
+  "source": "Wired",
+  "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+  "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+  "date": "2026-11-09T14:30:56+00:00"
+ },
+ {
+  "id": "9e75efd7851d98b1ace593679a5d5216",
+  "source": "The Verge",
+  "title": "Jonathan Kanter is using AI to take on Big Tech",
+  "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+  "date": "2026-11-09T14:30:00+00:00"
+ },
+ {
+  "id": "b884adfdcf204e7ae544ee24d476bc38",
+  "source": "Guardian",
+  "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+  "summary": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+  "date": "2026-11-09T14:00:11+00:00"
+ },
+ {
+  "id": "0fe933f7440bef573344571cf9c7ce03",
+  "source": "TechCrunch",
+  "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+  "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+  "date": "2026-11-09T14:00:00+00:00"
+ },
+ {
+  "id": "c145211558dd5d604fd1b7c647b917ef",
+  "source": "MIT Tech Review",
+  "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+  "date": "2026-11-09T13:15:00+00:00"
+ },
+ {
+  "id": "08088be30a8e00a4cc37523bb66cccdd",
+  "source": "MIT Tech Review",
+  "title": "Innovating with AI in the special chemicals industry",
+  "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+  "date": "2026-11-09T13:00:00+00:00"
+ },
+ {
   "id": "5205e876246dcf821da55a2aabc8c412",
   "source": "Guardian",
   "title": "Anti-AI populism is the future of American politics | Garrison Lovely",
