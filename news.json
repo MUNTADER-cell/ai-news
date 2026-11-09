@@ -1,5 +1,175 @@
 [
  {
+  "id": "ff1ec021c9bdd0b3228ce2b192e21a05",
+  "source": "Guardian",
+  "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+  "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large.…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+  "date": "2026-11-09T20:27:07+00:00"
+ },
+ {
+  "id": "cd02f18399f3edfcb58a5ded431dfec1",
+  "source": "TechCrunch",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+  "date": "2026-11-09T20:09:06+00:00"
+ },
+ {
+  "id": "cfeab8247b6400db7cb27328df0f8f7e",
+  "source": "Guardian",
+  "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+  "summary": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is a big deal A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+  "date": "2026-11-09T20:01:05+00:00"
+ },
+ {
+  "id": "1ca705b65394ba8bb8fd521d028a291d",
+  "source": "Guardian",
+  "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+  "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+  "date": "2026-11-09T19:40:45+00:00"
+ },
+ {
+  "id": "1127808f36fe946cdeac75d1e17843fc",
+  "source": "MIT Tech Review",
+  "title": "The backlash about data centers might really just be about electricity",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+  "date": "2026-11-09T19:35:33+00:00"
+ },
+ {
+  "id": "9d2e28e73a2d3504185b28d2f95a8ee9",
+  "source": "TechCrunch",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "date": "2026-11-09T19:24:51+00:00"
+ },
+ {
+  "id": "5223c7a831600083d115593094b7565a",
+  "source": "The Verge",
+  "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+  "date": "2026-11-09T19:09:58+00:00"
+ },
+ {
+  "id": "c301a0197fe30514d3142e634d9cb5d0",
+  "source": "The Verge",
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "date": "2026-11-09T19:00:00+00:00"
+ },
+ {
+  "id": "4f332da50a5e5a427cf7b481584dd6bf",
+  "source": "OpenAI",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "date": "2026-11-09T19:00:00+00:00"
+ },
+ {
+  "id": "ae692917c57289c218abe237356a41da",
+  "source": "Guardian",
+  "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+  "summary": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s willingness to listen to intelligence warnings It could be the plot of a spy thriller. One of the most powerful figures in the AI revolution admitted to having an affair with a Chinese businesswomen said to have passed intelligence to Beijing. When Donald Trump was briefed about…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
+  "date": "2026-11-09T18:51:10+00:00"
+ },
+ {
+  "id": "c81f482fdf110b88cc3533ceaca2672b",
+  "source": "TechCrunch",
+  "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+  "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+  "date": "2026-11-09T18:09:52+00:00"
+ },
+ {
+  "id": "9c473fd9de958c8dad5f50cc1f423cd9",
+  "source": "The Verge",
+  "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+  "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+  "date": "2026-11-09T18:07:23+00:00"
+ },
+ {
+  "id": "9b99d3e8fbba152424b37d695287863e",
+  "source": "TechCrunch",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "date": "2026-11-09T18:00:00+00:00"
+ },
+ {
+  "id": "866b5d07e7699d91d3ae3f168edd68d0",
+  "source": "Guardian",
+  "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+  "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+  "date": "2026-11-09T17:58:05+00:00"
+ },
+ {
+  "id": "f12cc565aa36c54969e0f4578a99591d",
+  "source": "The Verge",
+  "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+  "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+  "date": "2026-11-09T17:36:08+00:00"
+ },
+ {
+  "id": "9541439da1a607fd8ff4011adc253439",
+  "source": "MIT Tech Review",
+  "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+  "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+  "date": "2026-11-09T17:05:43+00:00"
+ },
+ {
+  "id": "f3c522ff77f3b76aae89ed0894951112",
+  "source": "TechCrunch",
+  "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+  "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "date": "2026-11-09T16:56:54+00:00"
+ },
+ {
   "id": "b5d8c7c799aedaa60634e9bb22e77f61",
   "source": "Guardian",
   "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
@@ -157,6 +327,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+  "date": "2026-11-09T08:00:00+00:00"
+ },
+ {
+  "id": "80bc4c6a8b59176a2399f3a2f066f512",
+  "source": "OpenAI",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/kuken",
   "date": "2026-11-09T08:00:00+00:00"
  },
  {
@@ -448,6 +628,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
   "date": "2026-11-07T07:00:07+00:00"
+ },
+ {
+  "id": "9f1e12639c713ed97fb6c74150812bb1",
+  "source": "TechCrunch",
+  "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+  "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+  "date": "2026-11-07T04:16:43+00:00"
  },
  {
   "id": "bfdaf195a235ade150c92aa42215e96b",
