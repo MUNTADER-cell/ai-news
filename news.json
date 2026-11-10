@@ -1,5 +1,135 @@
 [
  {
+  "id": "f5d9e67442eda4b43b3b1fb79716946e",
+  "source": "NYT",
+  "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+  "summary": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+  "date": "2026-11-10T20:31:05+00:00"
+ },
+ {
+  "id": "6fc8f319c68f754397b6d8ba5dc138b7",
+  "source": "TechCrunch",
+  "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+  "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+  "date": "2026-11-10T19:57:52+00:00"
+ },
+ {
+  "id": "d29090d0b774daa561e83d520622c006",
+  "source": "TechCrunch",
+  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+  "date": "2026-11-10T19:23:34+00:00"
+ },
+ {
+  "id": "13a445521080305c001bc739bcf1c55c",
+  "source": "The Verge",
+  "title": "The US is winning the AI race. Jensen Huang could have blown it",
+  "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "date": "2026-11-10T19:04:05+00:00"
+ },
+ {
+  "id": "a032a0b0222a87eb27ab5b5289ff2371",
+  "source": "TechCrunch",
+  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+  "date": "2026-11-10T19:03:52+00:00"
+ },
+ {
+  "id": "8477a8159d48fa3917e651ced9c3d9e0",
+  "source": "Google AI",
+  "title": "Gemini Intelligence: New features, on more devices",
+  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "date": "2026-11-10T19:00:00+00:00"
+ },
+ {
+  "id": "4b68cc7db805bd1974dd868f48f47e8a",
+  "source": "TechCrunch",
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "date": "2026-11-10T18:49:52+00:00"
+ },
+ {
+  "id": "97a11b3b9df55130f6b721b98fa2ce8b",
+  "source": "The Verge",
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "date": "2026-11-10T18:00:00+00:00"
+ },
+ {
+  "id": "efee8cc48ed16cb17f378192130bcf18",
+  "source": "The Verge",
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+  "date": "2026-11-10T17:32:47+00:00"
+ },
+ {
+  "id": "994129552b18505b4e6a06cee8220fef",
+  "source": "TechCrunch",
+  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+  "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "date": "2026-11-10T17:30:00+00:00"
+ },
+ {
+  "id": "804eba17b1eac0db967648a854474a96",
+  "source": "The Verge",
+  "title": "Anthropic has its own AI-powered office suite now",
+  "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "date": "2026-11-10T17:30:00+00:00"
+ },
+ {
+  "id": "5d35c297f500a28943b7fbd6835b5fef",
+  "source": "TechCrunch",
+  "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "date": "2026-11-10T17:04:19+00:00"
+ },
+ {
+  "id": "c77128a201b88a557ca37a58b2d9f7d6",
+  "source": "The Verge",
+  "title": "eBay appears to have shut the door on third-party AI agents",
+  "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+  "date": "2026-11-10T16:20:30+00:00"
+ },
+ {
   "id": "0e50aa04f7f285876f1c70cc659edd04",
   "source": "Guardian",
   "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
@@ -150,6 +280,16 @@
   "date": "2026-11-10T13:30:00+00:00"
  },
  {
+  "id": "ca5bae48d29b131bcaf9b96eda109a08",
+  "source": "TechCrunch",
+  "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+  "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+  "date": "2026-11-10T13:30:00+00:00"
+ },
+ {
   "id": "c31928bbebfd03bc1453f399d6a62b87",
   "source": "MIT Tech Review",
   "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
@@ -248,6 +388,16 @@
   "summary_ar": "",
   "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
   "date": "2026-11-10T11:00:00+00:00"
+ },
+ {
+  "id": "bde62bed0d83184ab3f517e0b4f5dfa9",
+  "source": "OpenAI",
+  "title": "Introducing Businesses in ChatGPT",
+  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/introducing-businesses-chatgpt",
+  "date": "2026-11-10T10:00:00+00:00"
  },
  {
   "id": "7f83c7f8edcabf8d4c1e23dabba145fc",
