@@ -1,5 +1,65 @@
 [
  {
+  "id": "990431ebeb77e925a1ffa8f340159e65",
+  "source": "BBC",
+  "title": "Anthropic to raise $64bn in major stock market listing",
+  "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T12:47:18+00:00"
+ },
+ {
+  "id": "1b40b9001e09b3fc1de2601ef5cc615c",
+  "source": "NYT",
+  "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+  "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+  "date": "2026-11-10T12:23:39+00:00"
+ },
+ {
+  "id": "c0bcf16e8fea16d89e7a209bc729b459",
+  "source": "OpenAI",
+  "title": "Helping caregivers use AI in everyday life",
+  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "date": "2026-11-10T12:00:00+00:00"
+ },
+ {
+  "id": "5d766163eb6abee1817e5ae3cf964878",
+  "source": "Guardian",
+  "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+  "summary": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine. For years, the tech industry has contested any causal link…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+  "date": "2026-11-10T11:00:50+00:00"
+ },
+ {
+  "id": "fcaf5fce48d6213eeda7193abdee96f7",
+  "source": "Wired",
+  "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+  "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+  "date": "2026-11-10T11:00:00+00:00"
+ },
+ {
+  "id": "f37ba06b0b4b55fae279822433140b39",
+  "source": "Wired",
+  "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+  "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+  "date": "2026-11-10T11:00:00+00:00"
+ },
+ {
   "id": "7f83c7f8edcabf8d4c1e23dabba145fc",
   "source": "OpenAI",
   "title": "Closing the AI guidance gap in education",
