@@ -1,5 +1,195 @@
 [
  {
+  "id": "0e50aa04f7f285876f1c70cc659edd04",
+  "source": "Guardian",
+  "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+  "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot was widely reported to be targeting a…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+  "date": "2026-11-10T16:13:13+00:00"
+ },
+ {
+  "id": "78900e4e7229c9d90d1c052bb68798c6",
+  "source": "The Verge",
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+  "date": "2026-11-10T16:00:00+00:00"
+ },
+ {
+  "id": "af325a13228f8f12e162a0fd29438606",
+  "source": "TechCrunch",
+  "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+  "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+  "date": "2026-11-10T15:54:08+00:00"
+ },
+ {
+  "id": "5ab46a1f966a1dd15ff1a6827baa8a4d",
+  "source": "TechCrunch",
+  "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+  "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+  "date": "2026-11-10T15:29:30+00:00"
+ },
+ {
+  "id": "393fc3aea6fddd3db7064970da6cc48f",
+  "source": "Guardian",
+  "title": "Nvidia shaken by scandal amid wider political new order for big tech",
+  "summary": "A scandal tests Nvidia’s dominance as tech billionaires seek to mend ties with Democrats after the midterm elections This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Today in tech, we’re talking about Nvidia ’s salacious scandal, tech tycoons trying to reconcile with Democrats, and what billionaires should spend their money…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
+  "date": "2026-11-10T15:04:38+00:00"
+ },
+ {
+  "id": "8e00065e3edcd7f69ae3d8913e35bc15",
+  "source": "The Verge",
+  "title": "Anthropic targets $1.4 trillion IPO",
+  "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+  "date": "2026-11-10T14:06:54+00:00"
+ },
+ {
+  "id": "2691bfd505194ce6febf2aaf1bf86f21",
+  "source": "TechCrunch",
+  "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+  "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+  "date": "2026-11-10T14:05:10+00:00"
+ },
+ {
+  "id": "1a6a4c972e5ba44338cbd9229134d036",
+  "source": "TechCrunch",
+  "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+  "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+  "date": "2026-11-10T14:01:39+00:00"
+ },
+ {
+  "id": "b8b95dacb219bbd3378dd7e4dc4e2835",
+  "source": "Wired",
+  "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+  "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "f778863a4b6873574a02979df0980287",
+  "source": "TechCrunch",
+  "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+  "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "9430d602e3040966bea42968a02eeef7",
+  "source": "TechCrunch",
+  "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+  "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "6373e497a4d4c8acd519da918d0510b8",
+  "source": "The Verge",
+  "title": "Adobe is going all in on agentic AI",
+  "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "6c21c86eb4f726cd4f33f85274ec02ab",
+  "source": "The Verge",
+  "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+  "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "0b514ad923e0667cd1d41aa22977d841",
+  "source": "Google AI",
+  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "date": "2026-11-10T14:00:00+00:00"
+ },
+ {
+  "id": "d1d3f9606291fa8b72799e545a51166d",
+  "source": "The Verge",
+  "title": "Hands-on with Ring’s new AI drone camera for your home",
+  "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+  "date": "2026-11-10T13:30:00+00:00"
+ },
+ {
+  "id": "c31928bbebfd03bc1453f399d6a62b87",
+  "source": "MIT Tech Review",
+  "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+  "date": "2026-11-10T13:10:00+00:00"
+ },
+ {
+  "id": "535b96ac73261925f71ae06973b6502e",
+  "source": "Guardian",
+  "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
+  "summary": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by reincarnated screen icons and uncanny humanoids . That is in the future, but the real-world…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+  "date": "2026-11-10T13:00:24+00:00"
+ },
+ {
+  "id": "dfc52740f1c685c92d1b914a91fafde8",
+  "source": "TechCrunch",
+  "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+  "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+  "date": "2026-11-10T13:00:00+00:00"
+ },
+ {
+  "id": "da8db646ca03a7898d632775e380ac5e",
+  "source": "Google AI",
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "date": "2026-11-10T13:00:00+00:00"
+ },
+ {
   "id": "990431ebeb77e925a1ffa8f340159e65",
   "source": "BBC",
   "title": "Anthropic to raise $64bn in major stock market listing",
@@ -87,6 +277,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+  "date": "2026-11-10T07:00:00+00:00"
+ },
+ {
+  "id": "db3d3bbb0683ec4cbb78f4355b9c5546",
+  "source": "OpenAI",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/ai-effect-on-freelance-work",
   "date": "2026-11-10T07:00:00+00:00"
  },
  {
@@ -258,6 +458,16 @@
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
   "date": "2026-11-09T22:23:42+00:00"
+ },
+ {
+  "id": "c889a28a4fb4a8495f8ba94d8eb67e31",
+  "source": "The Verge",
+  "title": "The global pledge to use AI for climate good is a cruel joke",
+  "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+  "date": "2026-11-09T21:13:16+00:00"
  },
  {
   "id": "ff1ec021c9bdd0b3228ce2b192e21a05",
