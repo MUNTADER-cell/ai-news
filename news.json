@@ -1,5 +1,65 @@
 [
  {
+  "id": "7f83c7f8edcabf8d4c1e23dabba145fc",
+  "source": "OpenAI",
+  "title": "Closing the AI guidance gap in education",
+  "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "date": "2026-11-10T09:00:00+00:00"
+ },
+ {
+  "id": "1eaa783431b04918d9490908d426ddd7",
+  "source": "Wired",
+  "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+  "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+  "date": "2026-11-10T07:00:00+00:00"
+ },
+ {
+  "id": "fc66a21ca327a046de776124a4eba7f3",
+  "source": "TechCrunch",
+  "title": "Otter AI can now follow conversations across 30+ languages",
+  "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+  "date": "2026-11-10T07:00:00+00:00"
+ },
+ {
+  "id": "484b44e2d559407510f57cdd92a5a017",
+  "source": "Guardian",
+  "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
+  "summary": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.' Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
+  "date": "2026-11-10T05:29:32+00:00"
+ },
+ {
+  "id": "faf3afbffeb4d88ab45ab2154ba0c1d8",
+  "source": "BBC",
+  "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+  "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-10T05:22:39+00:00"
+ },
+ {
+  "id": "3cb49ea5e892aaf40c9699d0e901edfa",
+  "source": "Wired",
+  "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+  "date": "2026-11-10T05:01:00+00:00"
+ },
+ {
   "id": "d9a0b0cf1019e179e75f9fa455a04d6b",
   "source": "Guardian",
   "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
