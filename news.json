@@ -1,5 +1,85 @@
 [
  {
+  "id": "5a616de1114129603880ef6ffdce4355",
+  "source": "The Verge",
+  "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+  "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+  "date": "2026-11-10T00:28:49+00:00"
+ },
+ {
+  "id": "a0a5adf4cca0b4ef71d8715f46fc7c88",
+  "source": "Wired",
+  "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+  "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+  "date": "2026-11-10T00:18:19+00:00"
+ },
+ {
+  "id": "d916d20f0c2ff98782a6583c38d283bd",
+  "source": "The Verge",
+  "title": "What could China get from Jensen Huang?",
+  "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+  "date": "2026-11-09T23:51:58+00:00"
+ },
+ {
+  "id": "f19a891631a3a897f8e161eaf321f123",
+  "source": "The Verge",
+  "title": "Here’s what Trump said he knew about Jensen Huang",
+  "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+  "date": "2026-11-09T23:47:46+00:00"
+ },
+ {
+  "id": "a418baa2661a36e74303df97c1ccf11f",
+  "source": "TechCrunch",
+  "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+  "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+  "date": "2026-11-09T23:28:37+00:00"
+ },
+ {
+  "id": "48e6dc76dc7f693e59867e01cee915d3",
+  "source": "The Verge",
+  "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+  "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+  "date": "2026-11-09T23:07:59+00:00"
+ },
+ {
+  "id": "67a80703c5c37cb3ebe63d6b7a45827c",
+  "source": "TechCrunch",
+  "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+  "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+  "date": "2026-11-09T22:46:09+00:00"
+ },
+ {
+  "id": "e7ff3531a33d6a4dbbf1643650125a23",
+  "source": "TechCrunch",
+  "title": "The race is on to sue Nvidia",
+  "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+  "date": "2026-11-09T22:23:42+00:00"
+ },
+ {
   "id": "ff1ec021c9bdd0b3228ce2b192e21a05",
   "source": "Guardian",
   "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
@@ -280,6 +360,16 @@
   "date": "2026-11-09T13:00:00+00:00"
  },
  {
+  "id": "179dae4d6c5602603a8ac5c92b4c90fb",
+  "source": "OpenAI",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/control-room",
+  "date": "2026-11-09T13:00:00+00:00"
+ },
+ {
   "id": "5205e876246dcf821da55a2aabc8c412",
   "source": "Guardian",
   "title": "Anti-AI populism is the future of American politics | Garrison Lovely",
@@ -337,6 +427,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/index/kuken",
+  "date": "2026-11-09T08:00:00+00:00"
+ },
+ {
+  "id": "ebd6c1fb221ab4076ba8ce60dfd7de26",
+  "source": "OpenAI",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/coderabbit-codex-daybreak",
   "date": "2026-11-09T08:00:00+00:00"
  },
  {
