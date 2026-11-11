@@ -10,6 +10,56 @@
   "date": "2026-11-12T00:00:00+00:00"
  },
  {
+  "id": "55a31f6446277ce4f055a5fb86c8b867",
+  "source": "OpenAI",
+  "title": "ChatGPT Plus for veterans and servicemembers",
+  "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "date": "2026-11-11T08:00:00+00:00"
+ },
+ {
+  "id": "844ff10dd21c63a217651485a2206854",
+  "source": "TechCrunch",
+  "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+  "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+  "date": "2026-11-11T07:30:51+00:00"
+ },
+ {
+  "id": "ee06609ac9832374ad33f193e5f0313c",
+  "source": "Guardian",
+  "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+  "summary": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to assess coursework, according to an investigation by England’s higher education regulator. The Office for Students (OfS)…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+  "date": "2026-11-11T07:00:33+00:00"
+ },
+ {
+  "id": "c6ebef834c12f4e77f9f1da34908b2b0",
+  "source": "Guardian",
+  "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+  "summary": "Is it because a) live music is just too hard (expensive) to do and b) AI streaming algorithms are eating our brains? Probably Sign up here to get an email whenever First Dog cartoons are published Get all your needs met at the First Dog shop if what you need is First Dog merchandise and prints Continue reading...",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not",
+  "date": "2026-11-11T05:34:40+00:00"
+ },
+ {
+  "id": "c5ac519afc5bd339b9e9bb2f2900d26f",
+  "source": "Guardian",
+  "title": "From the archive: Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI – podcast",
+  "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors This week, from 2023: Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans By Ben Tarnoff. Read by Sam Peter Jackson Read the text version here Support…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/news/audio/2026/nov/11/from-the-archive-weizenbaums-nightmares-how-the-inventor-of-the-first-chatbot-turned-against-ai-podcast",
+  "date": "2026-11-11T05:00:31+00:00"
+ },
+ {
   "id": "1390c402c7af500697c92af9055454ac",
   "source": "NYT",
   "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
@@ -460,6 +510,16 @@
   "date": "2026-11-10T09:00:00+00:00"
  },
  {
+  "id": "19892041069d942ddfbb1a4c336853fa",
+  "source": "OpenAI",
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/singapore-airlines-travel-work",
+  "date": "2026-11-10T08:00:00+00:00"
+ },
+ {
   "id": "1eaa783431b04918d9490908d426ddd7",
   "source": "Wired",
   "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
@@ -598,6 +658,16 @@
   "summary_ar": "",
   "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
   "date": "2026-11-10T00:18:19+00:00"
+ },
+ {
+  "id": "191d65fd7b158491bd5243c3eeb33661",
+  "source": "OpenAI",
+  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/cogent-security",
+  "date": "2026-11-10T00:00:00+00:00"
  },
  {
   "id": "d916d20f0c2ff98782a6583c38d283bd",
