@@ -10,6 +10,46 @@
   "date": "2026-11-12T00:00:00+00:00"
  },
  {
+  "id": "31587aec4a891c20d93027f2ccce3ce7",
+  "source": "Guardian",
+  "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+  "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+  "date": "2026-11-11T12:00:48+00:00"
+ },
+ {
+  "id": "644c5debc6de0dd4e3bf4f9a4f9c8f42",
+  "source": "BBC",
+  "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+  "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-11T11:33:24+00:00"
+ },
+ {
+  "id": "7b0c837fc2dad3569ff708c541c649e9",
+  "source": "Wired",
+  "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+  "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+  "date": "2026-11-11T11:00:00+00:00"
+ },
+ {
+  "id": "651a0fccfdbba6403c3619a73105b06a",
+  "source": "Google AI",
+  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "date": "2026-11-11T09:00:00+00:00"
+ },
+ {
   "id": "55a31f6446277ce4f055a5fb86c8b867",
   "source": "OpenAI",
   "title": "ChatGPT Plus for veterans and servicemembers",
