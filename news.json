@@ -10,6 +10,116 @@
   "date": "2026-11-12T00:00:00+00:00"
  },
  {
+  "id": "bb7e05135d407142be296f7d34a3eec4",
+  "source": "TechCrunch",
+  "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+  "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+  "date": "2026-11-11T16:16:07+00:00"
+ },
+ {
+  "id": "b577d6b06f32358e6bb6761c381bd6c5",
+  "source": "TechCrunch",
+  "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+  "date": "2026-11-11T16:14:44+00:00"
+ },
+ {
+  "id": "4f21ef46696b6615e130b864f565429a",
+  "source": "Wired",
+  "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+  "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+  "date": "2026-11-11T16:13:03+00:00"
+ },
+ {
+  "id": "fd7c9361a612e0ea794a41cb937851c2",
+  "source": "The Verge",
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "date": "2026-11-11T16:00:00+00:00"
+ },
+ {
+  "id": "d3a6593ef6bb076618f27093ddaa54b5",
+  "source": "Google AI",
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "date": "2026-11-11T16:00:00+00:00"
+ },
+ {
+  "id": "d9084ce0742af9b3fa6f38c8482a9166",
+  "source": "Wired",
+  "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+  "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+  "date": "2026-11-11T15:30:00+00:00"
+ },
+ {
+  "id": "a12c5f3d8f2dcc714a62a3902d89da73",
+  "source": "TechCrunch",
+  "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+  "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+  "date": "2026-11-11T15:00:00+00:00"
+ },
+ {
+  "id": "872573b4c15b2f70b0474d387983371a",
+  "source": "The Verge",
+  "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+  "date": "2026-11-11T15:00:00+00:00"
+ },
+ {
+  "id": "c469d7bbc40ab1420a7e0e14f657ad6a",
+  "source": "TechCrunch",
+  "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+  "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+  "date": "2026-11-11T14:00:00+00:00"
+ },
+ {
+  "id": "24878850a24ab6190b2d5afb16d26448",
+  "source": "The Verge",
+  "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+  "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+  "date": "2026-11-11T14:00:00+00:00"
+ },
+ {
+  "id": "63c379e63905195ab292bc9062173e55",
+  "source": "MIT Tech Review",
+  "title": "The Download: preserving minds and weighing open AI risks",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+  "date": "2026-11-11T13:10:00+00:00"
+ },
+ {
   "id": "31587aec4a891c20d93027f2ccce3ce7",
   "source": "Guardian",
   "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
