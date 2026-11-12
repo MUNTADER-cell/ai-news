@@ -1,5 +1,15 @@
 [
  {
+  "id": "0377be3d4034fd29b9e9627126539b2e",
+  "source": "Guardian",
+  "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+  "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Although the technology can help fight crime, the report found it is beset by errors and biases , and…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+  "date": "2026-11-12T00:01:03+00:00"
+ },
+ {
   "id": "49cf590dc337a5b9783a096a67f0d800",
   "source": "OpenAI",
   "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -8,6 +18,156 @@
   "summary_ar": "",
   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
   "date": "2026-11-12T00:00:00+00:00"
+ },
+ {
+  "id": "4d80da40d446e621a96ad4c956347981",
+  "source": "TechCrunch",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "date": "2026-11-11T23:50:00+00:00"
+ },
+ {
+  "id": "bf9a8df53a7ffea12952e5235f9f1e4a",
+  "source": "TechCrunch",
+  "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+  "date": "2026-11-11T23:28:45+00:00"
+ },
+ {
+  "id": "514b502da5e28df4a3f6da738c22c943",
+  "source": "TechCrunch",
+  "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+  "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+  "date": "2026-11-11T23:17:05+00:00"
+ },
+ {
+  "id": "f269105f8f6e68e1bb34309759d65ce8",
+  "source": "The Verge",
+  "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+  "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+  "date": "2026-11-11T22:44:36+00:00"
+ },
+ {
+  "id": "a3a0c9996cbe1c5ad36edbf42e91053e",
+  "source": "The Verge",
+  "title": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "date": "2026-11-11T21:54:21+00:00"
+ },
+ {
+  "id": "b749a843620395d5527345ede299c818",
+  "source": "TechCrunch",
+  "title": "Why the data center you dread might never even be built",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+  "date": "2026-11-11T20:15:15+00:00"
+ },
+ {
+  "id": "4b8a3ddcbba9ec6982f457232ea97968",
+  "source": "TechCrunch",
+  "title": "Meta is losing its longtime head of infrastructure",
+  "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+  "date": "2026-11-11T20:12:01+00:00"
+ },
+ {
+  "id": "9498e9f0a87c07c6b43e26e325f78269",
+  "source": "TechCrunch",
+  "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+  "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+  "date": "2026-11-11T20:02:14+00:00"
+ },
+ {
+  "id": "f1afb2a1cbcaf5ae79e2720e1420cbcd",
+  "source": "Wired",
+  "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+  "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+  "date": "2026-11-11T19:55:54+00:00"
+ },
+ {
+  "id": "546c365caa1bad2dd9d9476677eed90d",
+  "source": "TechCrunch",
+  "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+  "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+  "date": "2026-11-11T19:54:00+00:00"
+ },
+ {
+  "id": "69792f3c808437d7b258bec4f45bc408",
+  "source": "TechCrunch",
+  "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "date": "2026-11-11T19:34:55+00:00"
+ },
+ {
+  "id": "d9ab5c088fc68f533ee13ab708d17a5c",
+  "source": "TechCrunch",
+  "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+  "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+  "date": "2026-11-11T19:22:22+00:00"
+ },
+ {
+  "id": "3586fd5cc361f2044d6fb2da9c5c5454",
+  "source": "Google AI",
+  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "date": "2026-11-11T18:00:00+00:00"
+ },
+ {
+  "id": "d68b1f4fea9403831ecc02e15c2c0535",
+  "source": "Guardian",
+  "title": "Hacked fridges and other dangers lurking in the ‘internet of shit’ | Letters",
+  "summary": "One reader sounds a warning about all our devices that are connected to the internet, following a series of cyber-attacks on supermarket fridges Well done to Alex Pearce for unplugging his fridge from the internet ( Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?, 8 November ). My only question is why he didn’t do it a few weeks earlier, when the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/11/hacked-fridges-and-other-dangers-lurking-in-the-internet-of-shit",
+  "date": "2026-11-11T17:26:27+00:00"
+ },
+ {
+  "id": "c96bf79b7eb0ccb71bd08783d1d3edad",
+  "source": "Wired",
+  "title": "A Startup Wants to Fight AI Bioweapons With AI",
+  "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+  "date": "2026-11-11T17:00:00+00:00"
  },
  {
   "id": "bb7e05135d407142be296f7d34a3eec4",
@@ -208,6 +368,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/news/audio/2026/nov/11/from-the-archive-weizenbaums-nightmares-how-the-inventor-of-the-first-chatbot-turned-against-ai-podcast",
   "date": "2026-11-11T05:00:31+00:00"
+ },
+ {
+  "id": "cc75dd113e1a0abb51ee7550b3f8b4d2",
+  "source": "OpenAI",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/jiostar-vijay-seshadri",
+  "date": "2026-11-11T00:00:00+00:00"
  },
  {
   "id": "1390c402c7af500697c92af9055454ac",
