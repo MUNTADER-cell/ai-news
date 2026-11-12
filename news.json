@@ -1,5 +1,75 @@
 [
  {
+  "id": "7bfc406b21594a6fd8cacbaec187b9f9",
+  "source": "Guardian",
+  "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
+  "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+  "date": "2026-11-12T12:37:53+00:00"
+ },
+ {
+  "id": "96f22e90cca9d30b02d5eb9e195a1106",
+  "source": "BBC",
+  "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+  "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T11:21:25+00:00"
+ },
+ {
+  "id": "e215d5a1db9b3d07f7014bbef1fc4cc6",
+  "source": "Guardian",
+  "title": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+  "summary": "Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts One thing we all know about the tech billionaires is they are super-smart. We know this largely because they never stop telling us. The “ cognitive elite ”, to use their favoured phrase, are entitled to shape our future without our say-so. When Elon Musk goes…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
+  "date": "2026-11-12T11:17:51+00:00"
+ },
+ {
+  "id": "d281d29f001318a1184228d07e93bbd3",
+  "source": "Guardian",
+  "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+  "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had published a list of all the NHS bodies…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+  "date": "2026-11-12T11:00:47+00:00"
+ },
+ {
+  "id": "410d5ce739b83385e8b9b25eeec22a6e",
+  "source": "Wired",
+  "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+  "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+  "date": "2026-11-12T10:30:00+00:00"
+ },
+ {
+  "id": "cb5377ae2c66fa4c0547aa49b1b2e2da",
+  "source": "Wired",
+  "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+  "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+  "date": "2026-11-12T10:15:00+00:00"
+ },
+ {
+  "id": "d8a1aef3d91b9a9208c587b8676fe974",
+  "source": "OpenAI",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "date": "2026-11-12T09:30:00+00:00"
+ },
+ {
   "id": "7a8c9be12b96bb12768cf3346e3a9e62",
   "source": "Guardian",
   "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
@@ -57,6 +127,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "date": "2026-11-12T00:00:00+00:00"
+ },
+ {
+  "id": "34c6d4acf53a55caa8b4261d124d47bc",
+  "source": "OpenAI",
+  "title": "Supporting research on AI and children’s safety",
+  "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/children-first-declaration",
   "date": "2026-11-12T00:00:00+00:00"
  },
  {
