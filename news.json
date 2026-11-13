@@ -1,5 +1,95 @@
 [
  {
+  "id": "216b771014ae8aecc38de6ed8ffc3d2c",
+  "source": "BBC",
+  "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+  "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T00:13:35+00:00"
+ },
+ {
+  "id": "dfb46b48d60693d926a41800c10565d5",
+  "source": "BBC",
+  "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+  "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-12T23:34:05+00:00"
+ },
+ {
+  "id": "4676d156cf2866442aa804a9296d99ba",
+  "source": "NYT",
+  "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+  "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+  "date": "2026-11-12T22:54:19+00:00"
+ },
+ {
+  "id": "8f90ee80710e8de811a6099b3f064456",
+  "source": "TechCrunch",
+  "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+  "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+  "date": "2026-11-12T22:42:51+00:00"
+ },
+ {
+  "id": "73442885c204bc4392021b9e9b7ecc41",
+  "source": "Wired",
+  "title": "Silicon Valley Is Still Defending Jensen Huang",
+  "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+  "date": "2026-11-12T22:29:43+00:00"
+ },
+ {
+  "id": "3896780f30628465e8c4b7e7bed7612e",
+  "source": "TechCrunch",
+  "title": "Muse can now place calls to US businesses — if you pay",
+  "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+  "date": "2026-11-12T22:22:28+00:00"
+ },
+ {
+  "id": "450b25cc32004216cd7b329e29930c68",
+  "source": "Wired",
+  "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+  "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+  "date": "2026-11-12T22:14:41+00:00"
+ },
+ {
+  "id": "9a4263a4db8a225476288045ed1711e0",
+  "source": "The Verge",
+  "title": "Google’s new Gemini model is better at understanding complicated questions",
+  "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+  "date": "2026-11-12T21:55:32+00:00"
+ },
+ {
+  "id": "076e5b99074af123022723fc71546943",
+  "source": "TechCrunch",
+  "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+  "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+  "date": "2026-11-12T21:27:10+00:00"
+ },
+ {
   "id": "8f6f100ed9cd2274b8720f93d878dc6b",
   "source": "Wired",
   "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
@@ -27,6 +117,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/index/amplitude",
+  "date": "2026-11-12T20:00:00+00:00"
+ },
+ {
+  "id": "bff67df79e98a4a294ba7cd7dab505b8",
+  "source": "OpenAI",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/amplitude",
   "date": "2026-11-12T20:00:00+00:00"
  },
  {
@@ -408,6 +508,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
   "date": "2026-11-12T12:37:53+00:00"
+ },
+ {
+  "id": "0e0766ec9c770c31dcdc8634a3cd8507",
+  "source": "OpenAI",
+  "title": "Gondola doubles revenue as its team builds more with Codex",
+  "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/gondola",
+  "date": "2026-11-12T12:00:00+00:00"
  },
  {
   "id": "96f22e90cca9d30b02d5eb9e195a1106",
