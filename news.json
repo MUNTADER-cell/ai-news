@@ -1,5 +1,55 @@
 [
  {
+  "id": "a1cf766582ed46f74029a338101da9df",
+  "source": "TechCrunch",
+  "title": "Jensen Huang didn’t show confidence in his successor, report says",
+  "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+  "date": "2026-11-13T12:28:23+00:00"
+ },
+ {
+  "id": "5baea4d15354d4f6d728cffc09748691",
+  "source": "The Verge",
+  "title": "Let’s talk about Jensen Huang’s many affairs!",
+  "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+  "date": "2026-11-13T12:00:00+00:00"
+ },
+ {
+  "id": "5c89e9193dd4d7cbdfa894aff6f2b838",
+  "source": "Wired",
+  "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+  "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+  "date": "2026-11-13T11:45:00+00:00"
+ },
+ {
+  "id": "6605ec6c653ad11d23f9a2b95449f266",
+  "source": "BBC",
+  "title": "What we know so far about the Microsoft outage",
+  "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-13T11:43:27+00:00"
+ },
+ {
+  "id": "3d12bf3f82e2426e0be78ba35793fb26",
+  "source": "MIT Tech Review",
+  "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+  "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+  "date": "2026-11-13T10:00:00+00:00"
+ },
+ {
   "id": "64b15e8c20f023941b5c8230fe325bef",
   "source": "BBC",
   "title": "What happened overnight with the Microsoft global outage",
