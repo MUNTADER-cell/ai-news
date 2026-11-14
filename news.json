@@ -1,5 +1,45 @@
 [
  {
+  "id": "4f9a42ba49f57bbe167504b02cae2acf",
+  "source": "The Verge",
+  "title": "Amazon has a plan to index the world’s online shopping data",
+  "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "date": "2026-11-13T23:49:11+00:00"
+ },
+ {
+  "id": "8d23e88a0f9bcd333c45ee5c9d8e313b",
+  "source": "TechCrunch",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "date": "2026-11-13T22:43:00+00:00"
+ },
+ {
+  "id": "54faa4f844bc75958ab835f28990c580",
+  "source": "Guardian",
+  "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+  "summary": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest. This is a debate about the future of the Democratic party. It is a debate about whether the Democratic party remains a top-down party dominated by…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+  "date": "2026-11-13T21:28:45+00:00"
+ },
+ {
+  "id": "b5d8e3ece75ef596902018d0ae9ee3a6",
+  "source": "The Verge",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "date": "2026-11-13T20:45:10+00:00"
+ },
+ {
   "id": "26d265ce671c85ecacf438c524bb2969",
   "source": "TechCrunch",
   "title": "AI agent startup LangChain hits $3B valuation",
@@ -258,6 +298,16 @@
   "summary_ar": "",
   "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
   "date": "2026-11-13T10:00:00+00:00"
+ },
+ {
+  "id": "db3076ba786e3f1f23f12292a5ca6d03",
+  "source": "OpenAI",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/shield",
+  "date": "2026-11-13T08:00:00+00:00"
  },
  {
   "id": "64b15e8c20f023941b5c8230fe325bef",
