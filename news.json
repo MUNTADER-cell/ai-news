@@ -1,5 +1,85 @@
 [
  {
+  "id": "f2c3c92b0ac1d660e5eef55118f8df4d",
+  "source": "TechCrunch",
+  "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+  "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+  "date": "2026-11-16T17:02:43+00:00"
+ },
+ {
+  "id": "c241de6853258324bc00df0a3c8cb50b",
+  "source": "TechCrunch",
+  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+  "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+  "date": "2026-11-16T17:00:00+00:00"
+ },
+ {
+  "id": "748f280c6d7ddee5ba6f3a4c2cd64ed6",
+  "source": "Guardian",
+  "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+  "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+  "date": "2026-11-16T16:48:47+00:00"
+ },
+ {
+  "id": "35c4348dc4e9618b8834081642d639a7",
+  "source": "Wired",
+  "title": "Jensen Huang Is Gone. Now What?",
+  "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+  "date": "2026-11-16T16:12:51+00:00"
+ },
+ {
+  "id": "cc085432048721671a881d4607420672",
+  "source": "Guardian",
+  "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+  "summary": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged Cop31 live – latest updates Artificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study. While AI models can accurately confirm simple facts about climate change, eight times out of 10 when they pivoted to…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+  "date": "2026-11-16T16:05:58+00:00"
+ },
+ {
+  "id": "78c3bdf8c94d5ecb7765ea38e6307054",
+  "source": "MIT Tech Review",
+  "title": "Building trustworthy AI by fencing it in, not predicting it",
+  "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+  "date": "2026-11-16T16:04:28+00:00"
+ },
+ {
+  "id": "6df19e2f316f6dcac4586a379adee050",
+  "source": "TechCrunch",
+  "title": "Audible turns to AI to help users discover audiobooks",
+  "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+  "date": "2026-11-16T15:52:19+00:00"
+ },
+ {
+  "id": "725c1dccea9edf97037db33341965bec",
+  "source": "TechCrunch",
+  "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+  "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+  "date": "2026-11-16T15:02:34+00:00"
+ },
+ {
   "id": "33c7d15f513b2b60fd4ad55961710fc8",
   "source": "TechCrunch",
   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
@@ -128,6 +208,26 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
   "date": "2026-11-16T06:30:35+00:00"
+ },
+ {
+  "id": "725ebed5702515d0fd7994037e840f11",
+  "source": "OpenAI",
+  "title": "Advancing computer-use agents for healthcare teams",
+  "summary": "",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "date": "2026-11-16T06:00:00+00:00"
+ },
+ {
+  "id": "350189c720832b3e091fe6cb7506b3b1",
+  "source": "OpenAI",
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "date": "2026-11-16T06:00:00+00:00"
  },
  {
   "id": "74c2539a197400ce2810876123a432b8",
@@ -767,6 +867,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/business/customer-stories/shield",
+  "date": "2026-11-13T08:00:00+00:00"
+ },
+ {
+  "id": "29025d7302d128ceb9bc6e94e56b70f1",
+  "source": "OpenAI",
+  "title": "Our first phase of embedded assessments",
+  "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
   "date": "2026-11-13T08:00:00+00:00"
  },
  {
