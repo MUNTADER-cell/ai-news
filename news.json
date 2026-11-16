@@ -1,5 +1,95 @@
 [
  {
+  "id": "33c7d15f513b2b60fd4ad55961710fc8",
+  "source": "TechCrunch",
+  "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+  "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+  "date": "2026-11-16T14:48:13+00:00"
+ },
+ {
+  "id": "b65376beb7eacaa8009be5fcb4ee4247",
+  "source": "The Verge",
+  "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+  "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+  "date": "2026-11-16T14:00:00+00:00"
+ },
+ {
+  "id": "2e66b242e3e51de291714c12b943497d",
+  "source": "The Verge",
+  "title": "Google Maps can now create trip itineraries for you",
+  "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+  "date": "2026-11-16T14:00:00+00:00"
+ },
+ {
+  "id": "3e4a4b87c34fb63b272d54076dde7346",
+  "source": "Google AI",
+  "title": "New Ask Maps features to help with holiday travel and prep",
+  "summary": "tbd",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+  "date": "2026-11-16T14:00:00+00:00"
+ },
+ {
+  "id": "0f553794f8a785890606151f8be9d8b2",
+  "source": "MIT Tech Review",
+  "title": "Building AI that can work across the enterprise",
+  "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+  "date": "2026-11-16T13:00:00+00:00"
+ },
+ {
+  "id": "84522dc3aa84ccf0370e5513919948f7",
+  "source": "The Verge",
+  "title": "The Nvidia scandal isn’t slowing down",
+  "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+  "date": "2026-11-16T13:00:00+00:00"
+ },
+ {
+  "id": "67c0dbdc21f25ebca8fe8cd5ccbc027c",
+  "source": "TechCrunch",
+  "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+  "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+  "date": "2026-11-16T12:30:00+00:00"
+ },
+ {
+  "id": "176a4925dde4c94c434c22c80f1c0444",
+  "source": "BBC",
+  "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+  "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T12:20:49+00:00"
+ },
+ {
+  "id": "d2e242b0b5013fd1292b77052b197631",
+  "source": "Wired",
+  "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+  "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+  "date": "2026-11-16T11:00:00+00:00"
+ },
+ {
   "id": "1e17446980a044d1d030128caf7262e2",
   "source": "NYT",
   "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
@@ -78,6 +168,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
   "date": "2026-11-16T00:01:27+00:00"
+ },
+ {
+  "id": "2b4f9d829bf9c8a74f1b38d7ca0b2bfc",
+  "source": "OpenAI",
+  "title": "The King’s Trust and OpenAI launch £1m partnership",
+  "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/the-kings-trust-and-openai",
+  "date": "2026-11-16T00:00:00+00:00"
  },
  {
   "id": "22756b5773130bd071ae30f2a8a7c1eb",
