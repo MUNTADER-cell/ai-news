@@ -1,5 +1,65 @@
 [
  {
+  "id": "c7e274a0be43d09ccc85ef6503d87f05",
+  "source": "Guardian",
+  "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+  "summary": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+  "date": "2026-11-16T00:01:27+00:00"
+ },
+ {
+  "id": "22756b5773130bd071ae30f2a8a7c1eb",
+  "source": "TechCrunch",
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "date": "2026-11-15T23:30:00+00:00"
+ },
+ {
+  "id": "df3e44b99410d919ee7f29ed52f9668c",
+  "source": "OpenAI",
+  "title": "A step toward defining the Standard Model on a lattice",
+  "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "date": "2026-11-15T22:00:01+00:00"
+ },
+ {
+  "id": "e1f75517207ad798601e155052dd8093",
+  "source": "OpenAI",
+  "title": "Our new blog for science",
+  "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/our-new-blog-for-science",
+  "date": "2026-11-15T22:00:00+00:00"
+ },
+ {
+  "id": "b95b24505d9f9fa9c0d989f70263a48a",
+  "source": "TechCrunch",
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "date": "2026-11-15T21:56:35+00:00"
+ },
+ {
+  "id": "5243c0b686f8594679a44795938698b9",
+  "source": "The Verge",
+  "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+  "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+  "date": "2026-11-15T20:43:49+00:00"
+ },
+ {
   "id": "a63866f99390729adf8d3a049d33708b",
   "source": "TechCrunch",
   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
