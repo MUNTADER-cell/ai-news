@@ -1,5 +1,55 @@
 [
  {
+  "id": "e3240b03647653eda9926c83df43cd97",
+  "source": "BBC",
+  "title": "US government confirms investigation into tech firm Megaspeed",
+  "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-17T11:17:32+00:00"
+ },
+ {
+  "id": "78a6009c1206409f10fbf27650e85120",
+  "source": "Wired",
+  "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+  "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+  "date": "2026-11-17T11:00:00+00:00"
+ },
+ {
+  "id": "7f30e09df8affc106ec3a7447339325c",
+  "source": "Wired",
+  "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+  "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+  "date": "2026-11-17T11:00:00+00:00"
+ },
+ {
+  "id": "610e18ddc1a20748266f0af982ce6d26",
+  "source": "Wired",
+  "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+  "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+  "date": "2026-11-17T10:47:45+00:00"
+ },
+ {
+  "id": "48509b51b7741b6ff092c78505ff0991",
+  "source": "Guardian",
+  "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
+  "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growing on-set backlash. Under a wide-ranging new deal secured by Equity, the actors’ union, performers will have the rights…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+  "date": "2026-11-17T09:00:08+00:00"
+ },
+ {
   "id": "436f738d8062836f503d6e927b897c20",
   "source": "Guardian",
   "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
