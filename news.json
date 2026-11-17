@@ -1,5 +1,85 @@
 [
  {
+  "id": "7517b8cd010a2f700e1da12d91801312",
+  "source": "TechCrunch",
+  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "date": "2026-11-16T23:32:32+00:00"
+ },
+ {
+  "id": "6e64f24c4a1da78a8d33e13a02727e2f",
+  "source": "BBC",
+  "title": "The AI start-ups fixing India's broken roads and messy land records",
+  "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:25:53+00:00"
+ },
+ {
+  "id": "e35c13cf814e5385ef545f2b8a89ba39",
+  "source": "The Verge",
+  "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+  "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+  "date": "2026-11-16T23:17:34+00:00"
+ },
+ {
+  "id": "98d80275f0faaa5828d39965fe7fba92",
+  "source": "BBC",
+  "title": "California sues OpenAI over Hugging Face attack",
+  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-16T23:12:24+00:00"
+ },
+ {
+  "id": "6164faa6556061194b0f667c69e650db",
+  "source": "TechCrunch",
+  "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+  "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+  "date": "2026-11-16T22:03:02+00:00"
+ },
+ {
+  "id": "b0410aad4d02765a5154c8cedcd0ebee",
+  "source": "Guardian",
+  "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+  "summary": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+  "date": "2026-11-16T21:41:10+00:00"
+ },
+ {
+  "id": "6bf85be6fa63002380631828f7eefaa8",
+  "source": "The Verge",
+  "title": "California sues OpenAI over rogue AI hacking incidents",
+  "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+  "date": "2026-11-16T20:46:01+00:00"
+ },
+ {
+  "id": "a948d125471eba9c84d3f23c03c791e8",
+  "source": "The Verge",
+  "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+  "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+  "date": "2026-11-16T20:41:28+00:00"
+ },
+ {
   "id": "df33ffd2c617041f052404c2ab0dd1ff",
   "source": "Ars Technica",
   "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
@@ -447,6 +527,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/index/the-kings-trust-and-openai",
+  "date": "2026-11-16T00:00:00+00:00"
+ },
+ {
+  "id": "e35ddbaadb495f784058a070e107d342",
+  "source": "OpenAI",
+  "title": "At Holiday Extras, dots get to work before anyone asks",
+  "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
   "date": "2026-11-16T00:00:00+00:00"
  },
  {
