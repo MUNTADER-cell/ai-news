@@ -1,5 +1,35 @@
 [
  {
+  "id": "436f738d8062836f503d6e927b897c20",
+  "source": "Guardian",
+  "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+  "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked with a young tech entrepreneur with a substantial budget, who agents assumed was looking to rent a one-bedroom flat,” says…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+  "date": "2026-11-17T07:00:07+00:00"
+ },
+ {
+  "id": "8f729583f067650e28d66ed314367cb1",
+  "source": "Guardian",
+  "title": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+  "summary": "AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Militaries around the world are increasingly relying on artificial intelligence to find, track and annihilate targets. An upcoming conference in Geneva offers a chance to confront the gravest risks of AI-enabled warfare, ideally through a treaty to…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+  "date": "2026-11-17T07:00:07+00:00"
+ },
+ {
+  "id": "3dacc3cb13a76ed0ab614b114d69a15f",
+  "source": "OpenAI",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "date": "2026-11-17T00:00:00+00:00"
+ },
+ {
   "id": "7517b8cd010a2f700e1da12d91801312",
   "source": "TechCrunch",
   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -438,6 +468,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
   "date": "2026-11-16T09:40:29+00:00"
+ },
+ {
+  "id": "e5cbb67350e7ba322cfc8bb1b9b0f18a",
+  "source": "OpenAI",
+  "title": "How Revolut raises ambition without lowering the bar",
+  "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/revolut",
+  "date": "2026-11-16T09:30:00+00:00"
  },
  {
   "id": "b73c6d7b39720723a8141c1acb8ba678",
