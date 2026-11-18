@@ -1,5 +1,75 @@
 [
  {
+  "id": "10e24888b35fe463e0af450ab0b1ff02",
+  "source": "TechCrunch",
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+  "date": "2026-11-18T12:00:00+00:00"
+ },
+ {
+  "id": "6e992aceeab4c93b01f7694e4d14b056",
+  "source": "Guardian",
+  "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+  "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are related to each other or are the work of malign actors, according to the US secretary of state. Marco Rubio said the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+  "date": "2026-11-18T11:35:36+00:00"
+ },
+ {
+  "id": "11fb9fc05fb19324a911112e433a323e",
+  "source": "TechCrunch",
+  "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+  "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+  "date": "2026-11-18T11:30:00+00:00"
+ },
+ {
+  "id": "5d0f14b046a2035e27bf02032dc42afe",
+  "source": "The Verge",
+  "title": "Suno now lets you make AI videos for your AI music",
+  "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+  "date": "2026-11-18T11:16:53+00:00"
+ },
+ {
+  "id": "eb58646ac38d1e901790d4ebd604ba33",
+  "source": "Guardian",
+  "title": "Aria awards: how do Australian artists feel about their music being used to train AI? – video",
+  "summary": "At the 2026 Aria awards, nominated musicians including Boy Soda, Miss Kaninna and 3% are asked how they feel about the prospect of AI being trained using their music Elton John backs Australian artists in fight against AI in surprise Aria awards appearance Continue reading...",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/music/video/2026/nov/18/aria-awards-how-do-australian-artists-feel-about-their-music-being-used-to-train-ai-video",
+  "date": "2026-11-18T10:22:44+00:00"
+ },
+ {
+  "id": "cea875c8cb7c0ad011d43712b5fff9dd",
+  "source": "MIT Tech Review",
+  "title": "This smell startup says its AI nose is as good as a human’s",
+  "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+  "date": "2026-11-18T10:20:30+00:00"
+ },
+ {
+  "id": "3dcb4362694a06cc82071cd8dd6e685a",
+  "source": "Wired",
+  "title": "Lovable Wants You to Vibe Code Your Dream Job",
+  "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+  "date": "2026-11-18T10:00:00+00:00"
+ },
+ {
   "id": "5ee739c32a3f81b54e2b10776c1bb791",
   "source": "BBC",
   "title": "Security flaw found in Java, world's third-largest programming language",
@@ -88,6 +158,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
   "date": "2026-11-18T00:01:25+00:00"
+ },
+ {
+  "id": "a2f695ac2f9b40c7538a605290d193dd",
+  "source": "OpenAI",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "date": "2026-11-18T00:00:00+00:00"
  },
  {
   "id": "a5b2e1c3e893605eb2767bc9a3545291",
