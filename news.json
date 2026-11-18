@@ -1,5 +1,55 @@
 [
  {
+  "id": "5ee739c32a3f81b54e2b10776c1bb791",
+  "source": "BBC",
+  "title": "Security flaw found in Java, world's third-largest programming language",
+  "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T08:47:06+00:00"
+ },
+ {
+  "id": "777d47510dbcf89085bd233a6861559c",
+  "source": "Guardian",
+  "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
+  "summary": "British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’ Aria awards 2026 red carpet: Tame Impala, Baker Boy, G Flip and more – in pictures Elton John has made a surprise appearance at the 2026 Aria awards to draw attention to Not AI’s To Take , a major campaign backed by the creative and media industries calling on the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
+  "date": "2026-11-18T08:29:57+00:00"
+ },
+ {
+  "id": "4536d763bda3781f4b3a5e46e5e4a7c9",
+  "source": "BBC",
+  "title": "How important are Nvidia and Jensen Huang to the US economy?",
+  "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T06:04:21+00:00"
+ },
+ {
+  "id": "f3cc6e77bbb27faa4c0e53ead0338569",
+  "source": "Wired",
+  "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+  "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+  "date": "2026-11-18T05:01:00+00:00"
+ },
+ {
+  "id": "166059529e4a2f349911cc8f8ba1d103",
+  "source": "Guardian",
+  "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+  "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in artificial intelligence – led by the arrival of ChatGPT three years ago – have made the question of what it means to be…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+  "date": "2026-11-18T05:00:34+00:00"
+ },
+ {
   "id": "0b08a5d2f5b9330b42a56e2a858d409d",
   "source": "TechCrunch",
   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
