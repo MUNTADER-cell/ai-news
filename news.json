@@ -1,5 +1,185 @@
 [
  {
+  "id": "0f46293e3612b41e9d0a8c50ea08768a",
+  "source": "TechCrunch",
+  "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+  "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "date": "2026-11-19T00:42:56+00:00"
+ },
+ {
+  "id": "22b17c1f0d80df9c3139dc8790170f9c",
+  "source": "Guardian",
+  "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+  "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”. The plaintiffs sued Omnilert, the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+  "date": "2026-11-18T23:53:51+00:00"
+ },
+ {
+  "id": "5d67ac67da7b88b9c60682e5da3d7c39",
+  "source": "TechCrunch",
+  "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+  "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+  "date": "2026-11-18T23:45:00+00:00"
+ },
+ {
+  "id": "8adfe063d97725f3cadffea58b34b2f6",
+  "source": "BBC",
+  "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+  "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T23:44:27+00:00"
+ },
+ {
+  "id": "576b29b1a21302ca9a1f10dc95177683",
+  "source": "TechCrunch",
+  "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+  "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+  "date": "2026-11-18T23:25:17+00:00"
+ },
+ {
+  "id": "69ebf63da1e4940177434fcb8b002e8a",
+  "source": "The Verge",
+  "title": "The nation’s largest school districts consider ditching Google Search",
+  "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "date": "2026-11-18T23:18:35+00:00"
+ },
+ {
+  "id": "5ac4e453ed83f4d7048d1dac5be6d224",
+  "source": "TechCrunch",
+  "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+  "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "date": "2026-11-18T23:17:28+00:00"
+ },
+ {
+  "id": "fac74cc95111f0ba81426e873b1214f1",
+  "source": "TechCrunch",
+  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+  "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "date": "2026-11-18T22:58:11+00:00"
+ },
+ {
+  "id": "7406129dbea768cea673fe7b7dd4c8b0",
+  "source": "Wired",
+  "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+  "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/guys-really-we-got-this/",
+  "date": "2026-11-18T22:16:23+00:00"
+ },
+ {
+  "id": "dcfcb32bd475feea052cd5d9acf1451e",
+  "source": "TechCrunch",
+  "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+  "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+  "date": "2026-11-18T22:11:15+00:00"
+ },
+ {
+  "id": "8732893b62e2b5b000872f2de948f1c0",
+  "source": "Guardian",
+  "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
+  "summary": "A defence bill being rushed through parliament could expand the definition of ‘defence official’ and see AI datacentres deemed ‘defence security zones’ In 2019, the New York Times described Australia as “the world’s most secretive democracy” . Since then, a succession of defence, anti-terror and surveillance bills over consecutive governments have stripped away parliamentary power in favour of…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
+  "date": "2026-11-18T22:00:09+00:00"
+ },
+ {
+  "id": "ecd3912ad468170bf86416f983b9cd81",
+  "source": "Wired",
+  "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+  "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+  "date": "2026-11-18T22:00:00+00:00"
+ },
+ {
+  "id": "76d6931534fa9df2e59c29e529cd4573",
+  "source": "TechCrunch",
+  "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+  "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+  "date": "2026-11-18T21:57:40+00:00"
+ },
+ {
+  "id": "2bbead6ec7823dbe84c66d63b3e68ae2",
+  "source": "NYT",
+  "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+  "summary": "A Glossary of AI Terms You Should Know",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+  "date": "2026-11-18T21:41:35+00:00"
+ },
+ {
+  "id": "a7f9f3a5132d834249af63d3c94b9bb8",
+  "source": "Guardian",
+  "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+  "summary": "Artificial intelligence firm positioned for one of the biggest IPOs in history, with trading slated to begin Thursday Anthropic set the share price for its debut on the US stock market at $83 on Wednesday, positioning the artificial intelligence company for one of the biggest initial public offerings in history. The firm is slated to begin trading on Thursday under the ticker symbol ANT, with CEO…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+  "date": "2026-11-18T21:39:15+00:00"
+ },
+ {
+  "id": "33520312c7befee187099c766ff1d1e9",
+  "source": "TechCrunch",
+  "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+  "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+  "date": "2026-11-18T21:34:13+00:00"
+ },
+ {
+  "id": "f91436576411bb8cc112581d8e829f50",
+  "source": "TechCrunch",
+  "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+  "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+  "date": "2026-11-18T21:31:21+00:00"
+ },
+ {
+  "id": "0853ce9e503862e95e0718efd672ecfb",
+  "source": "Wired",
+  "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+  "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+  "date": "2026-11-18T21:15:00+00:00"
+ },
+ {
   "id": "2e49dd9ca02f8207c34967dd8bdc10e6",
   "source": "TechCrunch",
   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
@@ -367,6 +547,26 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/index/inside-the-codex-sandbox",
+  "date": "2026-11-18T08:00:00+00:00"
+ },
+ {
+  "id": "32f46a407aa3905b4ffdceef905299c9",
+  "source": "OpenAI",
+  "title": "Research acceleration: The jagged frontier",
+  "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "date": "2026-11-18T08:00:00+00:00"
+ },
+ {
+  "id": "c4029f8d3d08f72b5169416258ceb00f",
+  "source": "OpenAI",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/sumitomo-life",
   "date": "2026-11-18T08:00:00+00:00"
  },
  {
