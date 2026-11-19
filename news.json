@@ -1,5 +1,155 @@
 [
  {
+  "id": "89e78470e096847204613e4abea3bc1b",
+  "source": "The Verge",
+  "title": "Anthropic starts trading on Wall Street",
+  "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+  "date": "2026-11-19T16:52:01+00:00"
+ },
+ {
+  "id": "3af4d0ba3d936dc8aa9e7301f69521d8",
+  "source": "BBC",
+  "title": "Dutch watchdog tells people not to buy AI smart glasses",
+  "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T16:33:17+00:00"
+ },
+ {
+  "id": "6623a233bc918cfe6d08cf699fbcd92f",
+  "source": "Guardian",
+  "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+  "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+  "date": "2026-11-19T16:24:13+00:00"
+ },
+ {
+  "id": "3beff62fefd827a294c5d91bcac8f3fb",
+  "source": "TechCrunch",
+  "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+  "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+  "date": "2026-11-19T16:19:41+00:00"
+ },
+ {
+  "id": "7cab53bb135c2b448d0421302fe0500d",
+  "source": "NYT",
+  "title": "Some of the Gulf’s largest investors have put big bets on Anthropic.",
+  "summary": "",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic",
+  "date": "2026-11-19T15:35:29+00:00"
+ },
+ {
+  "id": "7a4f92c5510d56e07bff63e238e73f1b",
+  "source": "Guardian",
+  "title": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+  "summary": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic’s chief executive, Dario Amodei , rang the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+  "date": "2026-11-19T15:30:36+00:00"
+ },
+ {
+  "id": "38c66bd23a6ee65546c53d950226544c",
+  "source": "The Verge",
+  "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+  "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+  "date": "2026-11-19T15:16:45+00:00"
+ },
+ {
+  "id": "1ae3d1cd9e87e186543c11716547b820",
+  "source": "Guardian",
+  "title": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
+  "summary": "Òran Mór, Glasgow In Briony Martha’s compelling play, a woman generates an alternative ending to her impromptu meeting with the Scottish superstar Knowing what to believe is getting harder. Technology has blurred the line between truth and lies. Certain facts, though, we can demonstrate. We know, for example, that James McAvoy appeared in Cyrano de Bergerac at the Theatre Royal in Glasgow in the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
+  "date": "2026-11-19T15:01:41+00:00"
+ },
+ {
+  "id": "6dbad1140452d6c75064b058b62821bc",
+  "source": "TechCrunch",
+  "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+  "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+  "date": "2026-11-19T14:54:39+00:00"
+ },
+ {
+  "id": "0391667c2f0fad7c7568718dd900ffb4",
+  "source": "The Verge",
+  "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+  "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+  "date": "2026-11-19T14:25:37+00:00"
+ },
+ {
+  "id": "f62bc5f2c07185fba5bd06e53812e0f3",
+  "source": "Guardian",
+  "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+  "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+  "date": "2026-11-19T14:00:52+00:00"
+ },
+ {
+  "id": "bd8d0ab01c87a9f4b6ced250d02c9283",
+  "source": "Guardian",
+  "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
+  "summary": "A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive new gas plant to power a large datacentre in the Southern Highlands of New South Wales, it failed to pass. Five months later, when the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
+  "date": "2026-11-19T14:00:50+00:00"
+ },
+ {
+  "id": "02881da1b9dcfa485d2c1fe45f0d16e3",
+  "source": "TechCrunch",
+  "title": "Superhuman pushes its Go assistant everywhere",
+  "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+  "date": "2026-11-19T14:00:00+00:00"
+ },
+ {
+  "id": "511c0dc52d7f73c3c2e72ead97605081",
+  "source": "MIT Tech Review",
+  "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+  "date": "2026-11-19T13:10:00+00:00"
+ },
+ {
+  "id": "ac973a9bff8663358f17f3b8c3c9ff6e",
+  "source": "The Verge",
+  "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+  "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+  "date": "2026-11-19T13:00:00+00:00"
+ },
+ {
   "id": "4255d73ad69b5bf62c9a6f397dcd79d8",
   "source": "Guardian",
   "title": "AI demand will push up interest rates around the world, IMF head warns",
