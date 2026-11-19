@@ -1,5 +1,205 @@
 [
  {
+  "id": "7b9e1ba910229a17e1da686a3395767f",
+  "source": "Wired",
+  "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+  "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+  "date": "2026-11-19T20:34:17+00:00"
+ },
+ {
+  "id": "3d11d7e98bcaf19ef143d875424f522c",
+  "source": "The Verge",
+  "title": "Meta’s Muse Charm might cost $300",
+  "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+  "date": "2026-11-19T20:22:17+00:00"
+ },
+ {
+  "id": "43196cf1b9dfc4874a3dd0e6b72e80ab",
+  "source": "NYT",
+  "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+  "summary": "Anthropic shares rose in their first day of trading, while both the S&P 500 and Nasdaq indexes fell. There are a few factors at play.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+  "date": "2026-11-19T20:19:12+00:00"
+ },
+ {
+  "id": "1761ecaf8c5d36a8aeee0f66ca1ca05c",
+  "source": "TechCrunch",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "date": "2026-11-19T20:18:49+00:00"
+ },
+ {
+  "id": "e8cb1928c0d636b759c8ba7ced59d53b",
+  "source": "Guardian",
+  "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+  "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday as shares in their company started trading at a price ahead of expectations. The opening price of $111.50 (£85) per share valued the entrepreneurs’ stakes – including the chief executive, Dario…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+  "date": "2026-11-19T20:05:13+00:00"
+ },
+ {
+  "id": "84a5dc6d5cb4b105fe58d22060313280",
+  "source": "The Verge",
+  "title": "Google is putting AI chats right on the homepage",
+  "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "date": "2026-11-19T20:05:06+00:00"
+ },
+ {
+  "id": "752ea67dd1a0f83c5901d30b03c4cc87",
+  "source": "NYT",
+  "title": "What are Anthropic’s financials?",
+  "summary": "",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
+  "date": "2026-11-19T19:30:04+00:00"
+ },
+ {
+  "id": "5f36b8025bb05cb1bc273160bebf60e8",
+  "source": "NYT",
+  "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+  "summary": "The San Francisco company was the first major A.I. lab to go public in a highly anticipated moment for the tech industry.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+  "date": "2026-11-19T19:22:43+00:00"
+ },
+ {
+  "id": "38cbde179199e5d614e6f2b5abfb0911",
+  "source": "TechCrunch",
+  "title": "Anthropic’s IPO could deliver $156 billion to charity",
+  "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+  "date": "2026-11-19T19:10:45+00:00"
+ },
+ {
+  "id": "0504375034888e63648af0d3e156935a",
+  "source": "NYT",
+  "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
+  "summary": "",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
+  "date": "2026-11-19T18:53:18+00:00"
+ },
+ {
+  "id": "f5c860210425baad5f1f23c509d37f2e",
+  "source": "The Verge",
+  "title": "Gemini on Mac can now use your computer",
+  "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+  "date": "2026-11-19T18:21:13+00:00"
+ },
+ {
+  "id": "3d50539b6b4a0fb5c3b0eb794fdb30aa",
+  "source": "Guardian",
+  "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+  "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Business live – latest updates Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+  "date": "2026-11-19T18:15:48+00:00"
+ },
+ {
+  "id": "ffcfd7e32e09e749ee5eb8918018aee2",
+  "source": "TechCrunch",
+  "title": "Google gives Gemini the ability to use your Mac for you",
+  "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "date": "2026-11-19T18:09:11+00:00"
+ },
+ {
+  "id": "451492e4f9c9af96bdaa91cd513b39e2",
+  "source": "Guardian",
+  "title": "Academic integrity matters, but students shouldn’t be penalised for using AI | Letter",
+  "summary": "Berthold Schoene responds after the head of Ofqual said students could be disqualified from GCSEs and A-levels if they tried to use AI in assessed coursework Is this really the best we can do: draconically penalise the young for making use of the latest cognitive resources and tools available to them ( Ofqual urges ‘life-altering’ penalties for students who use tech to cheat, 18 November )? Our…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
+  "date": "2026-11-19T18:07:23+00:00"
+ },
+ {
+  "id": "4c3ac0becb9b2076cbf33d9dfc83a820",
+  "source": "Google AI",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "summary": "Gemini spark on a space background",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "date": "2026-11-19T18:00:00+00:00"
+ },
+ {
+  "id": "4e6c3fbd0dea1b2bd91eaaee9d184bc4",
+  "source": "TechCrunch",
+  "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+  "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "date": "2026-11-19T17:38:40+00:00"
+ },
+ {
+  "id": "fde7b4eb645067e3d990e8931dfc8001",
+  "source": "Wired",
+  "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+  "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+  "date": "2026-11-19T17:00:00+00:00"
+ },
+ {
+  "id": "bd72c3200d90bc308bdfcefa6d02e9b6",
+  "source": "TechCrunch",
+  "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+  "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+  "date": "2026-11-19T17:00:00+00:00"
+ },
+ {
+  "id": "c1fbfa1ad32770de54d162fea44853a1",
+  "source": "Google AI",
+  "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "date": "2026-11-19T17:00:00+00:00"
+ },
+ {
+  "id": "e73ee03b16d6d0e284fa4ab009db8481",
+  "source": "TechCrunch",
+  "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+  "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "date": "2026-11-19T16:59:23+00:00"
+ },
+ {
   "id": "89e78470e096847204613e4abea3bc1b",
   "source": "The Verge",
   "title": "Anthropic starts trading on Wall Street",
@@ -238,6 +438,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
   "date": "2026-11-19T08:48:36+00:00"
+ },
+ {
+  "id": "6ea811258a4650083c1e6d3a282162e2",
+  "source": "OpenAI",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "date": "2026-11-19T08:00:00+00:00"
  },
  {
   "id": "af4f590b7e048d32bd9fb5805c930dcc",
