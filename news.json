@@ -1,5 +1,85 @@
 [
  {
+  "id": "4255d73ad69b5bf62c9a6f397dcd79d8",
+  "source": "Guardian",
+  "title": "AI demand will push up interest rates around the world, IMF head warns",
+  "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director of the Washington-based fund, said…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+  "date": "2026-11-19T12:51:16+00:00"
+ },
+ {
+  "id": "708518498c68a5d2c814488f4ec7516a",
+  "source": "The Verge",
+  "title": "Canva adds an AI ‘off’ button",
+  "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+  "date": "2026-11-19T12:30:00+00:00"
+ },
+ {
+  "id": "144a3faf63d5bdbfb097ba7c5b8dcb2f",
+  "source": "Wired",
+  "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+  "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+  "date": "2026-11-19T12:00:00+00:00"
+ },
+ {
+  "id": "08eb757343e57d7e09247164b10abfcb",
+  "source": "NYT",
+  "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+  "summary": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+  "date": "2026-11-19T11:27:37+00:00"
+ },
+ {
+  "id": "0fe2914523ed72e2ddc1665b03840c03",
+  "source": "Guardian",
+  "title": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+  "summary": "It has been a wild few weeks in the world of tech. First, Jensen Huang’s extramarital affairs, including with an alleged Chinese spy, forced an unimaginable leadership change at Nvidia – arguably the most consequential company in AI development. Then, chaos erupted as a rolling set of IT outages disrupted flights, banking, tech companies and the federal government. And now, Anthropic is blowing…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
+  "date": "2026-11-19T11:00:26+00:00"
+ },
+ {
+  "id": "05437162063fa3cb421e4164234bb92d",
+  "source": "Guardian",
+  "title": "Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan",
+  "summary": "In normal times, we’d expect serious answers from our leaders on a topic of this magnitude. Not under this administration As outages and disruptions have piled up over recent days, Americans have been searching for answers. In less than a week, Microsoft went down, the FAA grounded all flights, banking systems were roiled, and the National Security Agency’s internal network failed. Continue…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-tech-outages",
+  "date": "2026-11-19T11:00:24+00:00"
+ },
+ {
+  "id": "1a7db6901f904c820b5440ee3987cc82",
+  "source": "NYT",
+  "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+  "summary": "An early investment that Facebook co-founder Dustin Moskovitz made in Anthropic is paying off. But it’s not making him happy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+  "date": "2026-11-19T10:03:03+00:00"
+ },
+ {
+  "id": "03dbf1ebb7daf0b3e5f326e5ddf302b8",
+  "source": "Guardian",
+  "title": "When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras",
+  "summary": "We can’t make AI safe for humanity if tech bosses are allowed to run their companies like autocracies Over the past two years, a troubling pattern has emerged across the world’s leading AI laboratories. Time and again, a safety researcher or engineer walks out of the door with a public warning that commercial pressures are overriding safety guardrails. Last month, the person who oversaw safety…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
+  "date": "2026-11-19T08:59:17+00:00"
+ },
+ {
   "id": "1952fce6cc0f827d346953009a10152c",
   "source": "Guardian",
   "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
@@ -198,6 +278,16 @@
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
   "date": "2026-11-18T21:31:21+00:00"
+ },
+ {
+  "id": "f1193f5ffa69593b591104234dc662a2",
+  "source": "BBC",
+  "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+  "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-18T21:28:08+00:00"
  },
  {
   "id": "0853ce9e503862e95e0718efd672ecfb",
