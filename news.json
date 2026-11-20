@@ -1,5 +1,95 @@
 [
  {
+  "id": "cc5563ff1b1111da1cdd2bef0fed6ad6",
+  "source": "TechCrunch",
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "date": "2026-11-20T00:43:50+00:00"
+ },
+ {
+  "id": "cc06de371a07a994e84a9bbc5a54d2f6",
+  "source": "NYT",
+  "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+  "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+  "date": "2026-11-20T00:25:47+00:00"
+ },
+ {
+  "id": "06ecd904bfcce27c54a2345c75b544e2",
+  "source": "BBC",
+  "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+  "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-19T23:33:51+00:00"
+ },
+ {
+  "id": "21b44fd34fd356ca6697085e1a17addd",
+  "source": "The Verge",
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "date": "2026-11-19T22:31:41+00:00"
+ },
+ {
+  "id": "7d707173f41f044097e685d1e44c3b9b",
+  "source": "The Verge",
+  "title": "A brief history of Nvidia’s recent stock fluctuations",
+  "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+  "date": "2026-11-19T21:59:35+00:00"
+ },
+ {
+  "id": "6b24f4e22080386ef990ce58070666d3",
+  "source": "TechCrunch",
+  "title": "Meta’s new Muse Charm device may cost $300",
+  "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "date": "2026-11-19T21:58:06+00:00"
+ },
+ {
+  "id": "59959673c5cf3a7fd1b37e90ee8a2310",
+  "source": "Wired",
+  "title": "What’s With All These Outages?",
+  "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+  "date": "2026-11-19T21:57:01+00:00"
+ },
+ {
+  "id": "353dc7badd21c4cbcb18ccf9d0c03370",
+  "source": "Guardian",
+  "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+  "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested. Similar…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+  "date": "2026-11-19T21:52:19+00:00"
+ },
+ {
+  "id": "74e8068d1097b579db3c612788df76f8",
+  "source": "TechCrunch",
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "date": "2026-11-19T21:42:31+00:00"
+ },
+ {
   "id": "7b9e1ba910229a17e1da686a3395767f",
   "source": "Wired",
   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
@@ -478,6 +568,46 @@
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
   "date": "2026-11-19T00:42:56+00:00"
+ },
+ {
+  "id": "556aee5cf74a0b1721f421bbf3330aca",
+  "source": "OpenAI",
+  "title": "Deploying Daybreak Red",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/learn/deploying-daybreak-red",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "id": "787cd754371822f4af25aae72cc78df9",
+  "source": "OpenAI",
+  "title": "See PR scans in action",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/learn/pr-scans-demo",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "id": "6ed6090c09421c3624bfa8f67145e915",
+  "source": "OpenAI",
+  "title": "Explore the Codex Security Plugin",
+  "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "id": "2e76d5b4b679af87e6a842badef68d97",
+  "source": "OpenAI",
+  "title": "Get started with Daybreak Blue",
+  "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "date": "2026-11-19T00:00:00+00:00"
  },
  {
   "id": "22b17c1f0d80df9c3139dc8790170f9c",
