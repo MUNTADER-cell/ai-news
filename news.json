@@ -1,5 +1,35 @@
 [
  {
+  "id": "84f805c9c7dec7232c471a6ef737a987",
+  "source": "BBC",
+  "title": "Should AI be judging our credit worthiness?",
+  "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T07:32:19+00:00"
+ },
+ {
+  "id": "365824f94beb83f97c81c99993a92723",
+  "source": "Wired",
+  "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+  "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+  "date": "2026-11-20T07:00:00+00:00"
+ },
+ {
+  "id": "cee4db4aa65ce323e8f1bf64cb3a1faa",
+  "source": "Guardian",
+  "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+  "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi. In fairness, said footage is, as Gabriel suggests, “extraordinary”. Working…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+  "date": "2026-11-20T05:00:22+00:00"
+ },
+ {
   "id": "679a248b00ddd6e611a292af24817456",
   "source": "Guardian",
   "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
