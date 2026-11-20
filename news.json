@@ -1,5 +1,115 @@
 [
  {
+  "id": "cc3c28b42118f8f9f7a6e55390910080",
+  "source": "BBC",
+  "title": "Trump threatens ban on US firms building AI data centres overseas",
+  "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T20:35:26+00:00"
+ },
+ {
+  "id": "cc0a4dad659b5596f9be4bdfa50c4d83",
+  "source": "TechCrunch",
+  "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+  "date": "2026-11-20T19:53:41+00:00"
+ },
+ {
+  "id": "8ebf90d0cb99cb1ab366f612a3c5400c",
+  "source": "Wired",
+  "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+  "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+  "date": "2026-11-20T19:52:21+00:00"
+ },
+ {
+  "id": "f509e696672e071432ea86627c3eb49c",
+  "source": "TechCrunch",
+  "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+  "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "date": "2026-11-20T19:32:08+00:00"
+ },
+ {
+  "id": "7e96afc41025b816e176d9b70cc35da1",
+  "source": "Guardian",
+  "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+  "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist? There was an interesting development this week in the endless rolling mega-froth over tech billionaire Jensen Huang , a saga that may or may not have involved some kind of adulterous 63-year-old honey trap spy dynamic . The latest suggestion being punted about is…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+  "date": "2026-11-20T19:00:36+00:00"
+ },
+ {
+  "id": "04398cb3fd06d98bdd2e1cf860c68ee7",
+  "source": "Guardian",
+  "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
+  "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, said the record-breaking IPO had ‘strengthened’ the company’s resolve to ‘do the right thing’. Despite the excitement,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
+  "date": "2026-11-20T18:53:50+00:00"
+ },
+ {
+  "id": "b44ab066f64c7bf4520fbd30393b9555",
+  "source": "The Verge",
+  "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "date": "2026-11-20T18:50:19+00:00"
+ },
+ {
+  "id": "a00492beeef3ea6c362bee16f0b5ff88",
+  "source": "Guardian",
+  "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
+  "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, said the record-breaking IPO had ‘strengthened’ the company’s resolve to ‘do the right thing’. Despite the excitement,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
+  "date": "2026-11-20T18:33:06+00:00"
+ },
+ {
+  "id": "b8658038964280d241add54dd4912a85",
+  "source": "MIT Tech Review",
+  "title": "The most misunderstood graph in AI just got a major update",
+  "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+  "date": "2026-11-20T18:15:15+00:00"
+ },
+ {
+  "id": "cc04f916f5cb80a61224a9c0c634808e",
+  "source": "TechCrunch",
+  "title": "Chips can survive the space environment — can their financing?",
+  "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+  "date": "2026-11-20T17:40:01+00:00"
+ },
+ {
+  "id": "e7bc21e40b78d9330ceba3db7751df1c",
+  "source": "The Verge",
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "date": "2026-11-20T16:34:13+00:00"
+ },
+ {
   "id": "427436e6cda2b4647623f416fb3f6dac",
   "source": "BBC",
   "title": "Anthropic shares fall a day after blockbuster opening",
@@ -120,6 +230,16 @@
   "date": "2026-11-20T10:00:31+00:00"
  },
  {
+  "id": "7121ba7c91734ceb0344baecd70fc9c4",
+  "source": "OpenAI",
+  "title": "Combatting adversarial distillation",
+  "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/combatting-adversarial-distillation",
+  "date": "2026-11-20T10:00:00+00:00"
+ },
+ {
   "id": "84f805c9c7dec7232c471a6ef737a987",
   "source": "BBC",
   "title": "Should AI be judging our credit worthiness?",
@@ -208,6 +328,26 @@
   "summary_ar": "",
   "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
   "date": "2026-11-20T00:25:47+00:00"
+ },
+ {
+  "id": "c2d364619a44697410420c90aa43adfb",
+  "source": "OpenAI",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/hebbia",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "id": "3c753634dc1f4ee5d5fd7d3ce70865cd",
+  "source": "OpenAI",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/introducing-medchembench",
+  "date": "2026-11-20T00:00:00+00:00"
  },
  {
   "id": "06ecd904bfcce27c54a2345c75b544e2",
