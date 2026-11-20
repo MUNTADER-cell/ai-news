@@ -1,5 +1,45 @@
 [
  {
+  "id": "427436e6cda2b4647623f416fb3f6dac",
+  "source": "BBC",
+  "title": "Anthropic shares fall a day after blockbuster opening",
+  "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T16:27:47+00:00"
+ },
+ {
+  "id": "3293ff1a5cf2333f32d58a45166d8c40",
+  "source": "TechCrunch",
+  "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+  "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+  "date": "2026-11-20T14:55:44+00:00"
+ },
+ {
+  "id": "47b9ea6e03a04f4b271c28d996baf882",
+  "source": "The Verge",
+  "title": "The week everything fell apart",
+  "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "date": "2026-11-20T14:06:59+00:00"
+ },
+ {
+  "id": "a2263c052fc471a0f431e06504765c25",
+  "source": "TechCrunch",
+  "title": "Six AI-powered gadgets that could make your home office smarter",
+  "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+  "date": "2026-11-20T14:00:00+00:00"
+ },
+ {
   "id": "da5d0e9421737f2d84ed5c4fa739c3bc",
   "source": "The Verge",
   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
