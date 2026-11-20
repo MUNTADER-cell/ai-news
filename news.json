@@ -1,5 +1,85 @@
 [
  {
+  "id": "da5d0e9421737f2d84ed5c4fa739c3bc",
+  "source": "The Verge",
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "date": "2026-11-20T12:30:47+00:00"
+ },
+ {
+  "id": "70fe6a2194f42e295306239b3a1e3d84",
+  "source": "Wired",
+  "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+  "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+  "date": "2026-11-20T12:00:00+00:00"
+ },
+ {
+  "id": "f0362f03dd202b8881436946eb18efe6",
+  "source": "Guardian",
+  "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+  "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being reshaped by AI. Throughout the history of the study of economics,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+  "date": "2026-11-20T11:00:31+00:00"
+ },
+ {
+  "id": "2f71734212db20e0e8aabe98c456ae0b",
+  "source": "Guardian",
+  "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+  "summary": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed classified NSA network , and Apple . People should be forgiven for suspecting a coordinated cyber-attack, a common…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+  "date": "2026-11-20T11:00:31+00:00"
+ },
+ {
+  "id": "63c9283eee51c045e06208cae0bbd189",
+  "source": "NYT",
+  "title": "G.T.A. VI Is a Monumental Human Achievement",
+  "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+  "date": "2026-11-20T11:00:17+00:00"
+ },
+ {
+  "id": "88f795f2e93d2dd8ef2cb40e6dc28df1",
+  "source": "Wired",
+  "title": "Regular Tech Bros Are Worried About Honeypots",
+  "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+  "date": "2026-11-20T11:00:00+00:00"
+ },
+ {
+  "id": "e42e02511abb82290509e140b36dbdf3",
+  "source": "Guardian",
+  "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+  "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets were on track for their worst week since 2020, as shares in big chip companies fell on Friday. In Taiwan, stocks dropped 6.7% to…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "date": "2026-11-20T10:02:21+00:00"
+ },
+ {
+  "id": "5ff895f4dae541912f903e813167da5c",
+  "source": "Guardian",
+  "title": "Will AI break the internet? | Garrison Lovely",
+  "summary": "Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and JPMorgan Chase . On Friday, all US domestic departures were grounded for the second time since 9/11. And on Tuesday,…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+  "date": "2026-11-20T10:00:31+00:00"
+ },
+ {
   "id": "84f805c9c7dec7232c471a6ef737a987",
   "source": "BBC",
   "title": "Should AI be judging our credit worthiness?",
