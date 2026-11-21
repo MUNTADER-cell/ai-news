@@ -1,5 +1,45 @@
 [
  {
+  "id": "b7f54b14667d4c9f2288a6eeb79c13bb",
+  "source": "Guardian",
+  "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+  "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+  "date": "2026-11-21T20:15:57+00:00"
+ },
+ {
+  "id": "0a2e9e2641fc4aa3c0356be5c9099921",
+  "source": "The Verge",
+  "title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "date": "2026-11-21T20:03:37+00:00"
+ },
+ {
+  "id": "53667f546f179f945af3d043b8972e59",
+  "source": "Guardian",
+  "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
+  "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark? Sovereignty has become the buzzword of political rhetoric at precisely the moment it has become harder than ever to define, let alone control, and most Australians feel unsafe in the world . It is a word that regularly trips off the prime minister’s tongue as he jets around the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+  "date": "2026-11-21T19:00:06+00:00"
+ },
+ {
+  "id": "f9419135fce595f04c4ea0cf0651ddee",
+  "source": "TechCrunch",
+  "title": "Here are the top AI agents that can live in your text messages",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "date": "2026-11-21T17:00:00+00:00"
+ },
+ {
   "id": "ec37bef41a18fbbbe6ed732fa55f3338",
   "source": "Guardian",
   "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -88,6 +128,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
   "date": "2026-11-21T11:00:57+00:00"
+ },
+ {
+  "id": "1b88a1919c8f4e7b33c566e3beba63f6",
+  "source": "NYT",
+  "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+  "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+  "date": "2026-11-21T10:03:45+00:00"
  },
  {
   "id": "1dabeb61685099635e37c6336647b15e",
