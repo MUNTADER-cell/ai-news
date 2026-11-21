@@ -1,5 +1,75 @@
 [
  {
+  "id": "ec37bef41a18fbbbe6ed732fa55f3338",
+  "source": "Guardian",
+  "title": "International UN talks on controlling use of autonomous weapons collapse",
+  "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+  "date": "2026-11-21T16:36:11+00:00"
+ },
+ {
+  "id": "6b65b8b30d4054e0c0b908bd2f937ee5",
+  "source": "TechCrunch",
+  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+  "date": "2026-11-21T16:00:00+00:00"
+ },
+ {
+  "id": "3f8dc1fbea0dc2614f82d5efffc252df",
+  "source": "The Verge",
+  "title": "Can Anthropic afford to put safety first?",
+  "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+  "date": "2026-11-21T15:00:00+00:00"
+ },
+ {
+  "id": "fb1a137c1183b5fe982c33b681d80819",
+  "source": "Guardian",
+  "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+  "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+  "date": "2026-11-21T14:00:01+00:00"
+ },
+ {
+  "id": "233360398ca6351e423384bba97c98d4",
+  "source": "The Verge",
+  "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+  "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+  "date": "2026-11-21T14:00:00+00:00"
+ },
+ {
+  "id": "e25b30df4947215514ea15cca2044e9e",
+  "source": "Guardian",
+  "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+  "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+  "date": "2026-11-21T13:00:01+00:00"
+ },
+ {
+  "id": "aea9da50e1443c5538cb9f44e4768afa",
+  "source": "Wired",
+  "title": "The Outages Are Just Getting Started",
+  "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+  "date": "2026-11-21T13:00:00+00:00"
+ },
+ {
   "id": "7d3e6cfd9fbc5f406826a01e69f8194b",
   "source": "Guardian",
   "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
