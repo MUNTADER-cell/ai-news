@@ -1,5 +1,45 @@
 [
  {
+  "id": "0ec089ab9e8bdb126dd0b50b4cb160b9",
+  "source": "BBC",
+  "title": "Can AI really help spot Black Friday deals? We put it to the test",
+  "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-21T00:06:11+00:00"
+ },
+ {
+  "id": "8685c65c5c02b918db5eaaed1bc3dd7f",
+  "source": "Wired",
+  "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+  "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+  "date": "2026-11-20T23:24:02+00:00"
+ },
+ {
+  "id": "2a8893f9c55d503bd48418beafcd4b7c",
+  "source": "BBC",
+  "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+  "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-20T23:08:57+00:00"
+ },
+ {
+  "id": "718dc2db66a106fb86a93a474a3db287",
+  "source": "Ars Technica",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+  "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "date": "2026-11-20T20:59:08+00:00"
+ },
+ {
   "id": "cc3c28b42118f8f9f7a6e55390910080",
   "source": "BBC",
   "title": "Trump threatens ban on US firms building AI data centres overseas",
