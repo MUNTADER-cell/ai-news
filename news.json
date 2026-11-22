@@ -1,5 +1,45 @@
 [
  {
+  "id": "258d61e81830d29933592a962846000c",
+  "source": "Guardian",
+  "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+  "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+  "date": "2026-11-22T20:23:36+00:00"
+ },
+ {
+  "id": "05ab91b4f2badf689cefc17ffa674ed2",
+  "source": "Guardian",
+  "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+  "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+  "date": "2026-11-22T19:00:34+00:00"
+ },
+ {
+  "id": "9d8fa306d2196715c96b8c32009942ff",
+  "source": "TechCrunch",
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "date": "2026-11-22T18:08:43+00:00"
+ },
+ {
+  "id": "cf3322b3a4602d726cf0e81e683d577c",
+  "source": "The Verge",
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "date": "2026-11-22T17:25:20+00:00"
+ },
+ {
   "id": "83eaade257d3811b0af88c057725d4fb",
   "source": "Guardian",
   "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
@@ -88,6 +128,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "date": "2026-11-22T05:04:39+00:00"
+ },
+ {
+  "id": "d2fc1e262b4cb91300c351549a4a567e",
+  "source": "OpenAI",
+  "title": "Perplexity and Intelligence",
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/perplexity-and-intelligence",
+  "date": "2026-11-22T00:00:00+00:00"
  },
  {
   "id": "f8ce89f0a31be533e3b307c1bcb16ddd",
