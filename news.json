@@ -1,5 +1,45 @@
 [
  {
+  "id": "e94c630301d486eefb9162199410354f",
+  "source": "Guardian",
+  "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+  "summary": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI. Millions around the world checked out of their usual responsibilities in order to immerse themselves in a game where you run errands for your girlfriend in between murdering people. I…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+  "date": "2026-11-22T12:00:29+00:00"
+ },
+ {
+  "id": "c4856681889262901aacf2ee6857b628",
+  "source": "Guardian",
+  "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+  "summary": "I believe human judgment remains essential Last year, I nearly quit mathematics. On 20 November, Levent Alpöge announced that, working with Claude, he had proved the Riemann hypothesis, a 167-year-old problem about the distribution of prime numbers. The Lean and Mathlib communities have since certified the formal proof. We are only beginning to understand the argument. What kind of future awaits…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+  "date": "2026-11-22T11:00:26+00:00"
+ },
+ {
+  "id": "9315ed20f1b1d3f4b2158c73e246d060",
+  "source": "Wired",
+  "title": "Banks Have Had It Up to Here With Your AI Agent",
+  "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+  "date": "2026-11-22T11:00:00+00:00"
+ },
+ {
+  "id": "4de28e8d1cc57c4c238ae31deb08f066",
+  "source": "Guardian",
+  "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+  "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+  "date": "2026-11-22T09:00:22+00:00"
+ },
+ {
   "id": "1284cfe48501905b223fa682c962ddad",
   "source": "Guardian",
   "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
