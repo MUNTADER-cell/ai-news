@@ -1,5 +1,55 @@
 [
  {
+  "id": "4a7da93304e1af7778c11aa96d29f1c2",
+  "source": "Wired",
+  "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+  "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+  "date": "2026-11-23T12:00:00+00:00"
+ },
+ {
+  "id": "fa75715d988f1191faedb2d2c625778f",
+  "source": "Guardian",
+  "title": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+  "summary": "The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble The sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised an eye-popping $81bn in the largest initial public offering in history. They saw the AI company’s IPO as a gung-ho affirmation of Silicon Valley’s and Wall…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+  "date": "2026-11-23T11:00:57+00:00"
+ },
+ {
+  "id": "4f85b6785f935262ad447ab3d7923be0",
+  "source": "Wired",
+  "title": "States Sue SpaceX Over Grok Deepfakes",
+  "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+  "date": "2026-11-23T11:00:00+00:00"
+ },
+ {
+  "id": "c1061207c903927a90cfc446cf39e655",
+  "source": "The Verge",
+  "title": "Meta Muse can do your Black Friday shopping at Walmart",
+  "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+  "date": "2026-11-23T11:00:00+00:00"
+ },
+ {
+  "id": "f35a4f097fc7a79d97014abc19a7cd8b",
+  "source": "Wired",
+  "title": "Goodbye, World: The End of Programmers",
+  "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+  "date": "2026-11-23T10:00:00+00:00"
+ },
+ {
   "id": "c4ef8904e98954a43e819738c8ddc2e1",
   "source": "Guardian",
   "title": "Dapper Liam and Noel, experimental Björk, and Bowie ‘cuddling himself’: Rankin reveals his never-before-seen shots of the stars",
