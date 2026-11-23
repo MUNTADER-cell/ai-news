@@ -1,5 +1,155 @@
 [
  {
+  "id": "1f8997ce74a9df683210c685056a6bb2",
+  "source": "TechCrunch",
+  "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+  "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+  "date": "2026-11-23T20:38:53+00:00"
+ },
+ {
+  "id": "ef51e937b5b86055a620629aa354cc4c",
+  "source": "The Verge",
+  "title": "Claude AI can review pull requests and ship fixes on its own now",
+  "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+  "date": "2026-11-23T20:00:00+00:00"
+ },
+ {
+  "id": "3a133cd71ed5b67b6e2fd1f265c5a431",
+  "source": "The Verge",
+  "title": "How Jensen Huang ended up as Nvidia CEO again",
+  "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+  "date": "2026-11-23T19:57:18+00:00"
+ },
+ {
+  "id": "389c89635cfdfbd73445a3e8c9649940",
+  "source": "TechCrunch",
+  "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "date": "2026-11-23T19:14:46+00:00"
+ },
+ {
+  "id": "ced394d4b6aee05268b067c5c3804855",
+  "source": "The Verge",
+  "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+  "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+  "date": "2026-11-23T19:04:52+00:00"
+ },
+ {
+  "id": "7b4f2fa9d495656290ef518988620b03",
+  "source": "The Verge",
+  "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+  "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+  "date": "2026-11-23T18:26:47+00:00"
+ },
+ {
+  "id": "4eec8977b6a96a50e0b875b574f57529",
+  "source": "TechCrunch",
+  "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+  "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+  "date": "2026-11-23T18:12:22+00:00"
+ },
+ {
+  "id": "901d34b9cb61565949543454a418e911",
+  "source": "Guardian",
+  "title": "Sweden’s datacentre politics are more complicated than they appear | Letter",
+  "summary": "There are distinct tensions over who controls, benefits from and gains access to natural and public resources, write James White and Nora Söderberg Steve Rose’s account of Sweden’s datacentre sector ( ‘Datacentres are deeply unpopular. Has Sweden made one we can all love?’, 12 November ) is a welcome reminder that digital infrastructure can be developed in more environmentally responsible ways.…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/world/2026/nov/23/swedens-datacentre-politics-are-more-complicated-than-they-appear",
+  "date": "2026-11-23T18:04:25+00:00"
+ },
+ {
+  "id": "04558401faec2dacfeb4e79458cebc6e",
+  "source": "Wired",
+  "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+  "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+  "date": "2026-11-23T17:52:56+00:00"
+ },
+ {
+  "id": "e3357160a21f62e3680c15f4aaf8b48d",
+  "source": "MIT Tech Review",
+  "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+  "date": "2026-11-23T17:36:08+00:00"
+ },
+ {
+  "id": "5ec0665df248248883f2e3f64518c84e",
+  "source": "Guardian",
+  "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+  "summary": "Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+  "date": "2026-11-23T17:18:06+00:00"
+ },
+ {
+  "id": "e483a880095260a7c8c2321a148bf505",
+  "source": "TechCrunch",
+  "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "date": "2026-11-23T17:14:23+00:00"
+ },
+ {
+  "id": "5353a3c7ac1733a64e0fbd4fb72c3e44",
+  "source": "Google AI",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "date": "2026-11-23T17:00:00+00:00"
+ },
+ {
+  "id": "1a4e504bcf588a6bd1c20a42af7e825b",
+  "source": "Guardian",
+  "title": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
+  "summary": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+  "date": "2026-11-23T16:58:17+00:00"
+ },
+ {
+  "id": "236394fc670236c22905adc0297ea27a",
+  "source": "TechCrunch",
+  "title": "Jensen Huang isn’t out of the woods yet",
+  "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+  "date": "2026-11-23T16:57:40+00:00"
+ },
+ {
   "id": "a3bc43bbd8d570f9177d279300a0c2a6",
   "source": "TechCrunch",
   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
@@ -8,6 +158,16 @@
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
   "date": "2026-11-23T16:39:10+00:00"
+ },
+ {
+  "id": "0b426bae89efc1a79cc606e9a3b6446a",
+  "source": "The Verge",
+  "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+  "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+  "date": "2026-11-23T16:30:11+00:00"
  },
  {
   "id": "8286b401401be26c18b0b17be8090b42",
@@ -188,6 +348,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/artanddesign/2026/nov/23/rankin-photographer-interview-contact-david-bowie-oasis",
   "date": "2026-11-23T08:00:50+00:00"
+ },
+ {
+  "id": "4201990503e1793f9ebe3e7c2634480d",
+  "source": "OpenAI",
+  "title": "Connected intelligence for in-house legal",
+  "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "date": "2026-11-23T08:00:00+00:00"
  },
  {
   "id": "118c9fd81f7035298c80a884ed5cd970",
