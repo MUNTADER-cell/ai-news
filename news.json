@@ -1,5 +1,135 @@
 [
  {
+  "id": "70e4e668b44490113c411fc1f9f9be0c",
+  "source": "TechCrunch",
+  "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+  "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+  "date": "2026-11-24T16:46:00+00:00"
+ },
+ {
+  "id": "77689b610221e2179c4b7ec93b467518",
+  "source": "Guardian",
+  "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
+  "summary": "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'signed up for their pensions being tied to the question of Huang’s fidelity to his marriage'. The mayor said Huang 'had a massive impact', with Nvidia’s share price dropping dramatically after he stepped…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
+  "date": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "837f8c589e68c703fba43fcd4f1b6fd0",
+  "source": "Guardian",
+  "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+  "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X. “Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this moment.…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+  "date": "2026-11-24T16:27:41+00:00"
+ },
+ {
+  "id": "c755bc7e9c2392e12739ed611a9a7243",
+  "source": "Guardian",
+  "title": "Nvidia staff: what do you think of Jensen Huang’s return as chief executive?",
+  "summary": "Do you work for the the world’s biggest chipmaker? Share your views on the surprise reinstatement of its CEO Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday, hours after being reinstated as the chief executive of the world’s most valuable chip company following an intervention by Donald Trump. The reversal of fortune came less than two weeks after Huang…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-staff-what-do-you-think-jensen-huang-return-chief-executive",
+  "date": "2026-11-24T16:25:57+00:00"
+ },
+ {
+  "id": "a5613aba9d10bf4710aa41654ab6884a",
+  "source": "TechCrunch",
+  "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+  "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+  "date": "2026-11-24T16:10:00+00:00"
+ },
+ {
+  "id": "b6d56875ce7b44481130e0245cfdbd23",
+  "source": "TechCrunch",
+  "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+  "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+  "date": "2026-11-24T16:02:37+00:00"
+ },
+ {
+  "id": "8b362bcfc1a0c982e13333da144dde1f",
+  "source": "Wired",
+  "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+  "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+  "date": "2026-11-24T16:00:00+00:00"
+ },
+ {
+  "id": "3cb7380077d7e092341bb0504ce83982",
+  "source": "Google AI",
+  "title": "How Gemini is changing the game for Golden State's organization and fans.",
+  "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+  "date": "2026-11-24T16:00:00+00:00"
+ },
+ {
+  "id": "de3bc194ca87cfd26233513efd80f43a",
+  "source": "TechCrunch",
+  "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+  "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+  "date": "2026-11-24T15:51:07+00:00"
+ },
+ {
+  "id": "ba625c17c59cc4b2f254e665579859df",
+  "source": "MIT Tech Review",
+  "title": "Raising the stakes for enterprise networks with AI modernization",
+  "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+  "date": "2026-11-24T15:15:16+00:00"
+ },
+ {
+  "id": "ec62f377d0eef9a6f139341c14921f95",
+  "source": "Guardian",
+  "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+  "summary": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO Zohran Mamdani , New York City ’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang , saying he does not think working Americans “signed up for their pensions being tied to the question of … Huang’s fidelity…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+  "date": "2026-11-24T14:22:17+00:00"
+ },
+ {
+  "id": "dcc6af102deb5f871e2d26e19cf10428",
+  "source": "Guardian",
+  "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
+  "summary": "The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you while dreaming of the pear tarte…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump",
+  "date": "2026-11-24T13:33:44+00:00"
+ },
+ {
+  "id": "22b4aa0dca98326b13c4ff4ce8846188",
+  "source": "MIT Tech Review",
+  "title": "The Download: AI’s gas power boom and a consciousness reality check",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+  "date": "2026-11-24T13:10:00+00:00"
+ },
+ {
   "id": "ff02b3f0a1d9483d5d130665d71cea78",
   "source": "Guardian",
   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
