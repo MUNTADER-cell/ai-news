@@ -1,5 +1,75 @@
 [
  {
+  "id": "ff02b3f0a1d9483d5d130665d71cea78",
+  "source": "Guardian",
+  "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+  "summary": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada. What do you think about it? Meta is continuing its rollout of its Muse AI assistant, with the UK the latest country where the digital butler will be available to go shopping, book tickets and carry out negotiations on a user’s behalf. The Facebook-owner’s app has been a hit in the US, where it is…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
+  "date": "2026-11-24T12:44:40+00:00"
+ },
+ {
+  "id": "dad9742e3b9b29ab12cd327370b75257",
+  "source": "Ars Technica",
+  "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+  "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+  "date": "2026-11-24T12:30:05+00:00"
+ },
+ {
+  "id": "b856a318d8cf52bf41780a0fdf3d0157",
+  "source": "Guardian",
+  "title": "Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter",
+  "summary": "Jensen Huang is apparently too big to fail – but what’s that mean for the rest of us? Just last week, Nvidia’s board chair told investors that the company had no intention of reinstating Huang as CEO. On Monday, they turned a full about-face. The board voted unanimously to reinstall Huang, triggering a nearly $1tn surge in the company’s stock market valuation. Donald Trump took credit, telling…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside",
+  "date": "2026-11-24T11:00:44+00:00"
+ },
+ {
+  "id": "65943b3b058f06da1670ed86583e2afd",
+  "source": "MIT Tech Review",
+  "title": "Data centers are getting their own natural gas power plants",
+  "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+  "date": "2026-11-24T11:00:00+00:00"
+ },
+ {
+  "id": "9df047b191f8e41c9d1dd1144da81e32",
+  "source": "Wired",
+  "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+  "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+  "date": "2026-11-24T10:45:00+00:00"
+ },
+ {
+  "id": "8d2fedfb5ff513e1e442c5394e7e1084",
+  "source": "Wired",
+  "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+  "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+  "date": "2026-11-24T10:15:00+00:00"
+ },
+ {
+  "id": "dd96c672bedaf3201c131c3a8d762534",
+  "source": "BBC",
+  "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+  "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T09:33:00+00:00"
+ },
+ {
   "id": "df13032f1b5258f9a5a4360d5521dc5a",
   "source": "Guardian",
   "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
