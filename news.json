@@ -1,5 +1,95 @@
 [
  {
+  "id": "a6b90ed42e09cb095da25e10046cbc42",
+  "source": "The Verge",
+  "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+  "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+  "date": "2026-11-24T20:02:03+00:00"
+ },
+ {
+  "id": "d52b76df83c94b72f5fb01dbb4f44c41",
+  "source": "TechCrunch",
+  "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+  "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+  "date": "2026-11-24T18:30:42+00:00"
+ },
+ {
+  "id": "fa4f47d12550c1ce2bf95945278a2043",
+  "source": "BBC",
+  "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+  "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T18:21:43+00:00"
+ },
+ {
+  "id": "8c13239162a0ffadaadadb625401f05a",
+  "source": "The Verge",
+  "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+  "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+  "date": "2026-11-24T18:15:00+00:00"
+ },
+ {
+  "id": "281e7b0eb8a2f22fabe430c5f6a63fa7",
+  "source": "TechCrunch",
+  "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+  "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+  "date": "2026-11-24T18:02:59+00:00"
+ },
+ {
+  "id": "7476c2639d9466cb019de1127fe60ff9",
+  "source": "Guardian",
+  "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+  "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+  "date": "2026-11-24T18:00:24+00:00"
+ },
+ {
+  "id": "a2a320b8b180b11669b8f2f43521771c",
+  "source": "Wired",
+  "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+  "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+  "date": "2026-11-24T17:44:53+00:00"
+ },
+ {
+  "id": "31bde7b6ca68e4a6ebe65e6799285f6e",
+  "source": "The Verge",
+  "title": "Tidal will start banning AI-generated music next month",
+  "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+  "date": "2026-11-24T17:17:09+00:00"
+ },
+ {
+  "id": "6e7150d9caf7ae53e9958f7109dc6eec",
+  "source": "TechCrunch",
+  "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+  "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+  "date": "2026-11-24T17:00:00+00:00"
+ },
+ {
   "id": "70e4e668b44490113c411fc1f9f9be0c",
   "source": "TechCrunch",
   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
@@ -18,6 +108,16 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
   "date": "2026-11-24T16:30:07+00:00"
+ },
+ {
+  "id": "a57e0ea43e9e87d464aada7eb13fd2ba",
+  "source": "The Verge",
+  "title": "Jensen Huang deepfakes are the hot new AI slop",
+  "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+  "date": "2026-11-24T16:30:00+00:00"
  },
  {
   "id": "837f8c589e68c703fba43fcd4f1b6fd0",
@@ -48,6 +148,16 @@
   "summary_ar": "",
   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
   "date": "2026-11-24T16:10:00+00:00"
+ },
+ {
+  "id": "75eb28b2757365e3aafda9f4d17b98c2",
+  "source": "The Verge",
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "date": "2026-11-24T16:09:23+00:00"
  },
  {
   "id": "b6d56875ce7b44481130e0245cfdbd23",
@@ -170,6 +280,16 @@
   "date": "2026-11-24T11:00:00+00:00"
  },
  {
+  "id": "5b23d2436c25024de3e6b3ad7864d8d7",
+  "source": "OpenAI",
+  "title": "Searching for distant planets with Astra",
+  "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "date": "2026-11-24T11:00:00+00:00"
+ },
+ {
   "id": "9df047b191f8e41c9d1dd1144da81e32",
   "source": "Wired",
   "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
@@ -248,6 +368,26 @@
   "summary_ar": "",
   "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
   "date": "2026-11-24T01:34:39+00:00"
+ },
+ {
+  "id": "6e7f073ccc2e7965d1811eded4a6ed16",
+  "source": "OpenAI",
+  "title": "How Intentful uses dots to make more time for growth",
+  "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/intentful-dots",
+  "date": "2026-11-24T00:00:00+00:00"
+ },
+ {
+  "id": "b13885c65c3dcbb93ee16ad8b2823688",
+  "source": "OpenAI",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "summary": "",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/ifood",
+  "date": "2026-11-24T00:00:00+00:00"
  },
  {
   "id": "6609ed9f2389d0b6dba4051f197043a2",
