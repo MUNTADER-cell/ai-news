@@ -1,5 +1,95 @@
 [
  {
+  "id": "6609ed9f2389d0b6dba4051f197043a2",
+  "source": "BBC",
+  "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+  "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-23T23:16:08+00:00"
+ },
+ {
+  "id": "2e683bac1a798c9e4c2d4071d7b1f9cf",
+  "source": "The Verge",
+  "title": "Trump engineered a risky comeback for Jensen Huang",
+  "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+  "date": "2026-11-23T22:25:12+00:00"
+ },
+ {
+  "id": "7687025f61ad168297b4ccf233d6b67e",
+  "source": "The Verge",
+  "title": "Welcome to elite impunity, Jensen Huang",
+  "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+  "date": "2026-11-23T22:09:26+00:00"
+ },
+ {
+  "id": "fc410e023e94d19d9ba85adb313c29f3",
+  "source": "TechCrunch",
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "date": "2026-11-23T22:05:50+00:00"
+ },
+ {
+  "id": "a42ef673b6ac8123df0240630ab9dd7f",
+  "source": "TechCrunch",
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "date": "2026-11-23T22:02:05+00:00"
+ },
+ {
+  "id": "b23fe2325ee92658e49518de21a32846",
+  "source": "TechCrunch",
+  "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+  "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+  "date": "2026-11-23T21:47:41+00:00"
+ },
+ {
+  "id": "b22bb97b417e299efb7eaef60416e9fd",
+  "source": "TechCrunch",
+  "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+  "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+  "date": "2026-11-23T21:25:42+00:00"
+ },
+ {
+  "id": "4dc6c6490d75196c0fb0cbd5ec63e5da",
+  "source": "OpenAI",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/introducing-shirudo",
+  "date": "2026-11-23T21:20:00+00:00"
+ },
+ {
+  "id": "1fb8ee564e2e33a7262ec937c9801937",
+  "source": "The Verge",
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+  "date": "2026-11-23T21:09:37+00:00"
+ },
+ {
   "id": "1f8997ce74a9df683210c685056a6bb2",
   "source": "TechCrunch",
   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -180,6 +270,16 @@
   "date": "2026-11-23T16:14:04+00:00"
  },
  {
+  "id": "93abe0883c058d69de611b9ac101e15d",
+  "source": "NYT",
+  "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+  "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+  "date": "2026-11-23T16:13:32+00:00"
+ },
+ {
   "id": "910818793cbec448fe05314c5be0a431",
   "source": "TechCrunch",
   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
@@ -357,6 +457,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "date": "2026-11-23T08:00:00+00:00"
+ },
+ {
+  "id": "a082949f03d883bce6fe9da78ffa1872",
+  "source": "OpenAI",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
   "date": "2026-11-23T08:00:00+00:00"
  },
  {
