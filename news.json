@@ -1,5 +1,95 @@
 [
  {
+  "id": "0cb6d0baeb4947fe86c201984be41ffc",
+  "source": "The Verge",
+  "title": "Nothing offers a full look at its AI earbuds and charging case",
+  "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+  "date": "2026-11-25T16:00:59+00:00"
+ },
+ {
+  "id": "74a9589854c3883d6f8ece4d8a65e771",
+  "source": "NYT",
+  "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+  "summary": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+  "date": "2026-11-25T15:43:55+00:00"
+ },
+ {
+  "id": "45abf29e29695a7072c66397361d6a3b",
+  "source": "TechCrunch",
+  "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+  "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+  "date": "2026-11-25T15:41:43+00:00"
+ },
+ {
+  "id": "e4b12c3a50e9dd8c68c4e4a2f8d54375",
+  "source": "Guardian",
+  "title": "New York bans AI toys, including those using internet to talk to children",
+  "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+  "date": "2026-11-25T15:29:21+00:00"
+ },
+ {
+  "id": "3abc33606f4d61e675014c11e73b499d",
+  "source": "Guardian",
+  "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+  "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game. The legendary…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+  "date": "2026-11-25T15:13:10+00:00"
+ },
+ {
+  "id": "f73e5ac199d7d5a8de84a6b91dfe27da",
+  "source": "The Verge",
+  "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+  "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+  "date": "2026-11-25T14:12:33+00:00"
+ },
+ {
+  "id": "0cb60670470dc60d8652bbb8147585c9",
+  "source": "TechCrunch",
+  "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+  "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+  "date": "2026-11-25T14:10:18+00:00"
+ },
+ {
+  "id": "f8088ddf41ae91f26405a8d59898914b",
+  "source": "Guardian",
+  "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+  "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all Get our breaking news email , free app or daily news podcast When Aidan Elwig Pollock signed up for an honours program at the University of Sydney, he did not expect his 20,000-word thesis to be accompanied by a spoken component. But, as AI increasingly makes…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+  "date": "2026-11-25T14:00:29+00:00"
+ },
+ {
+  "id": "4efa556b512f34a2c354fede031e40ec",
+  "source": "MIT Tech Review",
+  "title": "The Download: AI swamping open records, and firefighting for permafrost",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+  "date": "2026-11-25T13:10:00+00:00"
+ },
+ {
   "id": "c0437887807c075c4c5de3ceb95343e7",
   "source": "Guardian",
   "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
@@ -17,6 +107,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+  "date": "2026-11-25T13:00:00+00:00"
+ },
+ {
+  "id": "4621f767e4cf4e2625086690a9e1b4c9",
+  "source": "TechCrunch",
+  "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+  "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
   "date": "2026-11-25T13:00:00+00:00"
  },
  {
