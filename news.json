@@ -1,5 +1,95 @@
 [
  {
+  "id": "d7c3fae085f15ae8492cd30eba4aa9c6",
+  "source": "TechCrunch",
+  "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+  "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "date": "2026-11-25T00:12:02+00:00"
+ },
+ {
+  "id": "c5c5c84e1b379bda35b9bc300f8694f5",
+  "source": "Wired",
+  "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+  "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+  "date": "2026-11-24T23:39:04+00:00"
+ },
+ {
+  "id": "1fdf24d1647a0159d087956dc388a8f2",
+  "source": "Guardian",
+  "title": "Is Albo terminal? No – but the world is in chaos and he will need to find his way through wicked problems | Peter Lewis",
+  "summary": "Anthony Albanese is ending the final week of parliament at his lowest ebb – it’s a chance for him to rebuild public confidence in his leadership Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor The prime minister, Anthony Albanese, ends the final week of parliament for 2026 at his lowest ebb , with global dysfunction lapping on our shorelines…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+  "date": "2026-11-24T23:22:51+00:00"
+ },
+ {
+  "id": "493e269f01dc8c7f670310b2cea0bb5b",
+  "source": "TechCrunch",
+  "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+  "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+  "date": "2026-11-24T22:27:52+00:00"
+ },
+ {
+  "id": "dcfea5a712b9dda222a348a2d5084310",
+  "source": "TechCrunch",
+  "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+  "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+  "date": "2026-11-24T21:48:27+00:00"
+ },
+ {
+  "id": "84cfd1b9e3c30cf62e780a6d520ecbee",
+  "source": "TechCrunch",
+  "title": "Even the best AI agents struggle with everyday life",
+  "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+  "date": "2026-11-24T21:33:29+00:00"
+ },
+ {
+  "id": "bc914d95aadba40f40c2c322a3361908",
+  "source": "TechCrunch",
+  "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+  "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "date": "2026-11-24T21:32:38+00:00"
+ },
+ {
+  "id": "f2826368332a3f31345a2bca8ffe9a04",
+  "source": "TechCrunch",
+  "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+  "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "date": "2026-11-24T21:19:52+00:00"
+ },
+ {
+  "id": "fbeae4a2e0ad4dbee1313986c7bde4de",
+  "source": "BBC",
+  "title": "Tech Life",
+  "summary": "Experts from around the world plot the progress of AI development every five years.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-24T21:00:00+00:00"
+ },
+ {
   "id": "a6b90ed42e09cb095da25e10046cbc42",
   "source": "The Verge",
   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -240,6 +330,16 @@
   "date": "2026-11-24T13:10:00+00:00"
  },
  {
+  "id": "2fb78c77ddc3c48b5de480918c514017",
+  "source": "OpenAI",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "date": "2026-11-24T13:00:00+00:00"
+ },
+ {
   "id": "ff02b3f0a1d9483d5d130665d71cea78",
   "source": "Guardian",
   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
@@ -387,6 +487,16 @@
   "title_ar": "",
   "summary_ar": "",
   "link": "https://openai.com/business/customer-stories/ifood",
+  "date": "2026-11-24T00:00:00+00:00"
+ },
+ {
+  "id": "57c260d39b61c4599d492dd057d57378",
+  "source": "OpenAI",
+  "title": "Clay helps sales teams win with Codex and ChatGPT",
+  "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
   "date": "2026-11-24T00:00:00+00:00"
  },
  {
