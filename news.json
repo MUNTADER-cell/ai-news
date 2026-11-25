@@ -1,5 +1,95 @@
 [
  {
+  "id": "c0437887807c075c4c5de3ceb95343e7",
+  "source": "Guardian",
+  "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
+  "summary": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs This month’s elections demonstrated the American public’s urgent demand for change. But they also revealed a glaring problem for the Democrats’ policy agenda: they haven’t presented a compelling plan around AI. This is important, because AI isn’t just a political issue in itself: it’s…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
+  "date": "2026-11-25T13:00:26+00:00"
+ },
+ {
+  "id": "62d538fd46658027725be7e2ef14f7ff",
+  "source": "The Verge",
+  "title": "Has vibe coding made open source the new normal for synths?",
+  "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+  "date": "2026-11-25T13:00:00+00:00"
+ },
+ {
+  "id": "c5eb6e0ca7f14d6d085e74e7b22ef943",
+  "source": "Wired",
+  "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+  "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+  "date": "2026-11-25T11:30:00+00:00"
+ },
+ {
+  "id": "eb29f010c825e182da1616965a20e12f",
+  "source": "Guardian",
+  "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+  "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people –…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+  "date": "2026-11-25T11:00:47+00:00"
+ },
+ {
+  "id": "ab76af696a35a4b9181159728257baed",
+  "source": "BBC",
+  "title": "EA adds AI-generated John Motson to FC 27 video game",
+  "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T10:11:34+00:00"
+ },
+ {
+  "id": "08add9aa4519f87909ad4d2486b07ad8",
+  "source": "Guardian",
+  "title": "AI's shock-and-awe raid on maths looks like pride before a fall | Rafael Behr",
+  "summary": "Machines are bulldozing through hard problems to assert the power of their tech bro creators, not to advance human knowledge In most walks of life, trying something 12,363,153,437,138 times and getting the same result is reason enough to assume it works every time. Not in maths, where a conjecture that holds up more than 12tn times looks very probably true but doesn’t qualify as proven. That was…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
+  "date": "2026-11-25T10:05:15+00:00"
+ },
+ {
+  "id": "3b5f889d537c10b4127c91e94e701c36",
+  "source": "NYT",
+  "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
+  "summary": "For people steeped in the world of artificial intelligence, the topic could be a minefield at this year’s dinner.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+  "date": "2026-11-25T10:04:13+00:00"
+ },
+ {
+  "id": "53cbc6695e893f1b17863b6daf446fbd",
+  "source": "BBC",
+  "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+  "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-25T10:03:12+00:00"
+ },
+ {
+  "id": "20ed3c7d1f7fda5ed91c2f8f30f32daf",
+  "source": "MIT Tech Review",
+  "title": "AI is straining America’s open records systems",
+  "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+  "date": "2026-11-25T10:00:00+00:00"
+ },
+ {
   "id": "e1de5b682851265b68c59f3a995ebcf9",
   "source": "Guardian",
   "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
