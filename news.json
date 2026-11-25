@@ -1,5 +1,75 @@
 [
  {
+  "id": "68617ed988fe883b1ce72e5c6ee8c834",
+  "source": "TechCrunch",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "date": "2026-11-25T20:03:27+00:00"
+ },
+ {
+  "id": "dc74c9891a120b226443b8e088f2f517",
+  "source": "TechCrunch",
+  "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+  "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+  "date": "2026-11-25T19:54:57+00:00"
+ },
+ {
+  "id": "bac2d3e3f4a61316a68697a9d429d94c",
+  "source": "TechCrunch",
+  "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+  "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+  "date": "2026-11-25T19:44:24+00:00"
+ },
+ {
+  "id": "fd530c75c77acc00d3ff2e054f01d526",
+  "source": "TechCrunch",
+  "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+  "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "date": "2026-11-25T18:11:46+00:00"
+ },
+ {
+  "id": "4d16d40e18b4b18ea2edfa53543fa7b1",
+  "source": "The Verge",
+  "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "date": "2026-11-25T17:44:51+00:00"
+ },
+ {
+  "id": "a07adeabc9e7c59f3622f6d81b45a33c",
+  "source": "TechCrunch",
+  "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+  "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+  "date": "2026-11-25T17:35:58+00:00"
+ },
+ {
+  "id": "a33de435eff55f692d484d40a4ec9dde",
+  "source": "MIT Tech Review",
+  "title": "How data centers are driving a US natural-gas boom",
+  "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other power sources, including renewables like…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+  "date": "2026-11-25T17:00:00+00:00"
+ },
+ {
   "id": "0cb6d0baeb4947fe86c201984be41ffc",
   "source": "The Verge",
   "title": "Nothing offers a full look at its AI earbuds and charging case",
