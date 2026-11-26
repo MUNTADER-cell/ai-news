@@ -1,5 +1,55 @@
 [
  {
+  "id": "5172d6131cd176ef91278634fd25ee13",
+  "source": "Guardian",
+  "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+  "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed. Proceedings where judges have been…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+  "date": "2026-11-26T12:19:37+00:00"
+ },
+ {
+  "id": "791240e4b853335f08c8e6a7cd684a56",
+  "source": "Guardian",
+  "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+  "summary": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this? Meta has rolled out its Muse AI assistant, which can be tasked with shopping, booking tickets and carrying out negotiations on a user’s behalf, across countries including the UK, US, Canada, Australia and Japan. The AI agent needs the customer’s permission to go…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+  "date": "2026-11-26T11:23:41+00:00"
+ },
+ {
+  "id": "09a434e9c03359d74204aa5ef1b07d37",
+  "source": "Wired",
+  "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+  "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+  "date": "2026-11-26T10:51:27+00:00"
+ },
+ {
+  "id": "2b77243de9e1ff4ce12c29e71323cd88",
+  "source": "The Verge",
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "date": "2026-11-26T09:54:40+00:00"
+ },
+ {
+  "id": "cc11c413b77b49c0c344bc50bf3fd26f",
+  "source": "BBC",
+  "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+  "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+  "date": "2026-11-26T09:27:44+00:00"
+ },
+ {
   "id": "1fe4bd6dbe84377e1493acfd295213c0",
   "source": "Guardian",
   "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
