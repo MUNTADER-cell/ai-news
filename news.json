@@ -1,5 +1,25 @@
 [
  {
+  "id": "bf17d49ef61f9fcb5cbc8ce767753e0c",
+  "source": "TechCrunch",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "date": "2026-11-25T22:44:32+00:00"
+ },
+ {
+  "id": "6d162717023fa73f184296db1d33e2af",
+  "source": "The Verge",
+  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "date": "2026-11-25T21:51:26+00:00"
+ },
+ {
   "id": "68617ed988fe883b1ce72e5c6ee8c834",
   "source": "TechCrunch",
   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
