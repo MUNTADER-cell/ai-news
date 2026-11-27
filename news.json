@@ -1,5 +1,35 @@
 [
  {
+  "id": "14bffb6128182cb43513965b460482d3",
+  "source": "Guardian",
+  "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+  "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser. The nature adviser made a significant intervention to urge Bristol city council not to grant planning permission for a 40MW…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+  "date": "2026-11-27T07:00:57+00:00"
+ },
+ {
+  "id": "832e768e01a9fa0f0931819814906316",
+  "source": "Guardian",
+  "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+  "summary": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner. This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money. Continue…",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+  "date": "2026-11-27T07:00:56+00:00"
+ },
+ {
+  "id": "2eb2d56553b5e3df190a4b82ce9eeb34",
+  "source": "Wired",
+  "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+  "title_ar": "",
+  "summary_ar": "",
+  "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+  "date": "2026-11-27T07:00:00+00:00"
+ },
+ {
   "id": "80778f1c9d9bd725d2b2cdd9f713e377",
   "source": "BBC",
   "title": "Asia made a big AI bet on Nvidia. What happens now?",
